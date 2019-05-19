@@ -6,13 +6,13 @@ permalink: /o-projektu/index.html
 
 Skóreeuroposlanců.cz je projekt [Liberálního institutu](http://libinst.cz) a je inspirován již řadu let trvajícím projektem americké organizace [FreedomWorks](http://congress.freedomworks.org).
 
-Identifikujeme klíčová hlasování, důležitá pro oblasti, kterým se věnuje Liberální institut, tj. svoboda jednotlivce, volný trh, vláda s omezenými pravomocemi a mír. Obecně řečeno dáváme negativní bod senátorovi, který hlasuje pro omezení svobody a/nebo zvětšení státu, a pozitivní bod senátorovi, který hlasuje naopak. Skóre 100 % tedy znamená, že senátor hlasuje vždy pro více svobody a méně státu; −100 % naopak znamená, že senátor vždy hlasuje pro méně svobody a více státu.
+Identifikujeme klíčová hlasování, důležitá pro oblasti, kterým se věnuje Liberální institut, tj. svoboda jednotlivce, volný trh, vláda s omezenými pravomocemi a mír. Obecně řečeno dáváme negativní bod europoslancovi, který hlasuje pro omezení svobody a/nebo větší centralizaci a harmonizaci, a pozitivní bod europoslancovi, který hlasuje naopak. Skóre 100 % tedy znamená, že europoslanec hlasuje vždy pro více svobody a méně centralizace; −100 % naopak znamená, že europoslanec vždy hlasuje pro méně svobody a více centralizace. V potaz bereme pouze konečná hlasování u legislativních aktů, nezávazné směrnice neanalyzujeme.
 
 Všechna hlasování mají stejnou váhu a průběžně se u jednotlivých europoslanců sčítají, takže můžeme sestavit žebříček europoslanců od nejliberálnějších po nejméně liberální.
 
 Vedoucí projektu: [Martin Pánek](mailto:martin.panek@libinst.cz) - 777 157 142
 
-Výzkumný asistent: Magdalena Šuterová, Jiří Kubíček
+Výzkumný asistent: David Bartas, Jan Mošovský, Jiří Kubíček
 
 Našli jste chybu? Dejte nám vědět.
 

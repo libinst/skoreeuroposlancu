@@ -1,30 +1,30 @@
 [
   {
     "jmeno": "Jiří Payne",
-    "strana": "EFDD",
-    "linkurl": "url",
+    "strana": "EFDD / Svobodní",
+    "linkurl": "http://www.europarl.europa.eu/meps/cs/189507/JIRI_PAYNE/home",
     "procent": "77%",
     "imageurl": ""
   },
   {
     "jmeno": "Petr Mach",
-    "strana": "EFDD",
-    "linkurl": "",
-    "procent": "56%",
+    "strana": "EFDD / Svobodní",
+    "linkurl": "http://www.europarl.europa.eu/meps/cs/84175/PETR_MACH/history/8",
+    "procent": "62%",
     "imageurl": ""
   },
   {
     "jmeno": "Jan Zahradil",
-    "strana": "ECR",
-    "linkurl": "",
-    "procent": "17%",
+    "strana": "ECR / ODS",
+    "linkurl": "http://www.europarl.europa.eu/meps/cs/23712/JAN_ZAHRADIL/home",
+    "procent": "20%",
     "imageurl": ""
   },
   {
     "jmeno": "Evžen Tošenovský",
-    "strana": "ECR",
-    "linkurl": "",
-    "procent": "12%",
+    "strana": "ECR / ODS",
+    "linkurl": "http://www.europarl.europa.eu/meps/cs/96713/EVZEN_TOSENOVSKY/home",
+    "procent": "15%",
     "imageurl": ""
   }
 ]
