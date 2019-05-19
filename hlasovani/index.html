@@ -16,7 +16,7 @@
 
   
 
-  <link rel="alternate" type="application/rss+xml" title="Skóre senátorů - " href="/feed.xml" />
+  <link rel="alternate" type="application/rss+xml" title="Skóre europoslanců - " href="/feed.xml" />
 
   
 
@@ -65,12 +65,12 @@
   <meta property="og:type" content="website" />
 
   
-  <meta property="og:url" content="http://www.skoresenatoru.cz/hlasovani" />
-  <link rel="canonical" href="http://www.skoresenatoru.cz/hlasovani" />
+  <meta property="og:url" content="http://localhost:4000/hlasovani" />
+  <link rel="canonical" href="http://localhost:4000/hlasovani" />
   
 
   
-  <meta property="og:image" content="http://www.skoresenatoru.cz/img/libinst.jpg" />
+  <meta property="og:image" content="http://localhost:4000/img/libinst.jpg" />
   
 
 
@@ -86,7 +86,7 @@
   
 
   
-  <meta name="twitter:image" content="http://www.skoresenatoru.cz/img/libinst.jpg" />
+  <meta name="twitter:image" content="http://localhost:4000/img/libinst.jpg" />
   
 
   <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
@@ -108,7 +108,7 @@
         <span class="icon-bar"></span>
       </button>
       
-        <a class="navbar-brand" href="http://www.skoresenatoru.cz">Skóre senátorů</a>
+        <a class="navbar-brand" href="http://localhost:4000">Skóre europoslanců</a>
       
     </div>
 
@@ -116,8 +116,8 @@
     <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
     <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
     <script>
-    jQuery.getJSON('/senatori.json', function(data) {
-      $("#senator-search").autocomplete({
+    jQuery.getJSON('/europoslanci.json', function(data) {
+      $("#europoslanec-search").autocomplete({
         source: data,
         minLength: 2,
         select: function(event, ui){
@@ -134,7 +134,7 @@
         <form class="navbar-form" role="search" action="https://cse.google.com/cse">
           <input type="hidden" name="cx" value="006352263766031622043:ygat1wey7ys">
           <div class="input-group">
-            <input id="senator-search" type="text" class="form-control" placeholder="Vyhledat senátora" name="q">
+            <input id="europoslanec-search" type="text" class="form-control" placeholder="Vyhledat europoslance" name="q">
           </div>
         </form>
       </div>
@@ -218,7 +218,7 @@
 	
 	<div class="avatar-container">
 	  <div class="avatar-img-border">
-	    <a href="http://www.skoresenatoru.cz ">
+	    <a href="http://localhost:4000 ">
 	      <img class="avatar-img" src="/img/libinst.jpg" />
 		</a>
 	  </div>
@@ -262,69 +262,169 @@
       <table class="table">
   <tbody>
   
-    <tr><td><a href="/hlasovani/eet/">EET</a></td></tr>
+    <tr><td><a href="/hlasovani/gmo/">Possibility for the Member States to restrict or prohibit the cultivation of GMOs ***II</a></td></tr>
   
-    <tr><td><a href="/hlasovani/kontrolni-hlaseni/">Kontrolní hlášení</a></td></tr>
+    <tr><td><a href="/hlasovani/poplatky-pri-platbe-kartou/">Interchange fees for card-based payment transactions ***I</a></td></tr>
   
-    <tr><td><a href="/hlasovani/zakaz-koureni-v-restauracich/">Zákaz kouření v restauracích</a></td></tr>
+    <tr><td><a href="/hlasovani/zrizeni-socialniho-vyboru/">Decision establishing the Social Protection Committee *</a></td></tr>
   
-    <tr><td><a href="/hlasovani/politicke-strany/">Novela zákona o politických stranách</a></td></tr>
+    <tr><td><a href="/hlasovani/zrizeni-vyboru-zamestnanosti/">Decision establishing the Employment Committee *</a></td></tr>
   
-    <tr><td><a href="/hlasovani/prokazovani-majetku/">Zákon o prokazování původu majetku</a></td></tr>
+    <tr><td><a href="/hlasovani/snizeni-limitu-na-biopaliva/">Fuel quality directive and renewable energy directive ***II</a></td></tr>
   
-    <tr><td><a href="/hlasovani/zakaz-kozesinovych-farem/">Zákaz kožešinových farem</a></td></tr>
+    <tr><td><a href="/hlasovani/zakaz-igelitek/">Reducing the consumption of lightweight plastic carrier bags ***II</a></td></tr>
   
-    <tr><td><a href="/hlasovani/zneuziti-vyznamne-trzni-sily/">Novela zákona o zneužití významné tržní síly</a></td></tr>
+    <tr><td><a href="/hlasovani/evropsky-fond-pro-strategicke-investice/">European Fund for Strategic Investments ***I</a></td></tr>
   
-    <tr><td><a href="/hlasovani/pohrebnictvi/">Novela zákona o pohřebnictví (zákaz papírových rakví)</a></td></tr>
+    <tr><td><a href="/hlasovani/akcionari/">Long-term shareholder engagement and corporate governance statement ***I</a></td></tr>
   
-    <tr><td><a href="/hlasovani/statni-sluzba/">Zákon o státní službě</a></td></tr>
+    <tr><td><a href="/hlasovani/uprchlici/">Provisional measures in the area of international protection for the benefit of Italy and Greece *</a></td></tr>
   
-    <tr><td><a href="/hlasovani/prace-na-dohodu/">Zákaz pracovat na dohodu, pokud je člověk vedený na úřadu práce</a></td></tr>
+    <tr><td><a href="/hlasovani/uprchlici-2/">Council decision establishing provisional measures in the area of international protection for the benefit of Italy, Greece and Hungary*</a></td></tr>
   
-    <tr><td><a href="/hlasovani/predskolni-vzdelavani/">Povinné předškolní vzdělávání</a></td></tr>
+    <tr><td><a href="/hlasovani/esif-pro-recko/">Common provisions on European Structural and Investment Funds: specific measures for Greece ***I</a></td></tr>
   
-    <tr><td><a href="/hlasovani/prodej-o-svatcich/">Zákaz prodeje o svátcích</a></td></tr>
+    <tr><td><a href="/hlasovani/limity-na-emise/">Limitation of emissions of certain pollutants into the air ***I</a></td></tr>
   
-    <tr><td><a href="/hlasovani/treti-sazba-dph/">Třetí sazba DPH</a></td></tr>
+    <tr><td><a href="/hlasovani/cestovani/">Package travel and linked travel arrangements ***II</a></td></tr>
   
-    <tr><td><a href="/hlasovani/uber/">Taxíky proti Uberu</a></td></tr>
+    <tr><td><a href="/hlasovani/jednotny-evropsky-trh-pro-elektronickou-komunikaci/">European single market for electronic communications ***II</a></td></tr>
   
-    <tr><td><a href="/hlasovani/prestupky/">Novela zákona o přestupcích</a></td></tr>
+    <tr><td><a href="/hlasovani/povinne-vymenovani-danovych-informaci/">Mandatory automatic exchange of information in the field of taxation *</a></td></tr>
   
-    <tr><td><a href="/hlasovani/bezpecnost-cr/">Novela ústav. z. o bezpečnosti České republiky</a></td></tr>
+    <tr><td><a href="/hlasovani/geneticky-modifikovana-jidla/">Use of genetically modified food and feed ***I</a></td></tr>
   
-    <tr><td><a href="/hlasovani/registr-smluv/">Registr smluv</a></td></tr>
+    <tr><td><a href="/hlasovani/nova-jidla/">Novel foods ***I</a></td></tr>
   
-    <tr><td><a href="/hlasovani/danovy-balicek-2014/">Daňový balíček 2014</a></td></tr>
+    <tr><td><a href="/hlasovani/cepol/">EU Agency for Law Enforcement Training (CEPOL) ***I</a></td></tr>
   
-    <tr><td><a href="/hlasovani/danovy-balicek-2017/">Daňový balíček 2017</a></td></tr>
+    <tr><td><a href="/hlasovani/vymena-bankovnich-informaci-s-lichtenstejnskem/">EU-Liechtenstein agreement on the automatic exchange of financial account information *</a></td></tr>
   
-    <tr><td><a href="/hlasovani/umele-oplodneni-svobodnych/">Umělé oplodnění pro svobodné ženy</a></td></tr>
+    <tr><td><a href="/hlasovani/bezvizovy-rezim-s-uae/">EU-United Arab Emirates agreement on the short-stay visa waiver ***</a></td></tr>
   
-    <tr><td><a href="/hlasovani/kontrola-kotlu/">Novela zákona o ochraně ovzduší</a></td></tr>
+    <tr><td><a href="/hlasovani/geneticky-modifikovana-kukurice/">Objection pursuant to Rule 106: authorisation of genetically modified maize NK603xT25</a></td></tr>
   
-    <tr><td><a href="/hlasovani/zdrazeni-cigaret/">Zdražení cigaret</a></td></tr>
+    <tr><td><a href="/hlasovani/eu-vietnam/">EU-Vietnam Framework Agreement on Comprehensive Partnership and Cooperation (consent) ***</a></td></tr>
   
-    <tr><td><a href="/hlasovani/blokovani-webu/">Blokování webů</a></td></tr>
+    <tr><td><a href="/hlasovani/lanovky/">Cableway installations ***I</a></td></tr>
   
-    <tr><td><a href="/hlasovani/zpravodajske-sluzby/">Zpravodajské služby</a></td></tr>
+    <tr><td><a href="/hlasovani/nedeklarovana-prace/">Establishment of a European Platform to enhance cooperation in the prevention and deterrence of undeclared work ***I</a></td></tr>
   
-    <tr><td><a href="/hlasovani/lecebne-konopi/">Léčebná marihuana</a></td></tr>
+    <tr><td><a href="/hlasovani/soja/">Objection pursuant to Rule 106: Authorisation of genetically modified soybean FG72</a></td></tr>
   
-    <tr><td><a href="/hlasovani/prodej-o-svatcich-2013/">Prodej o svátcích 2013</a></td></tr>
+    <tr><td><a href="/hlasovani/jablka-do-skol/">Aid scheme for the supply of fruit and vegetables, bananas and milk in the educational establishments ***I</a></td></tr>
   
-    <tr><td><a href="/hlasovani/silnicni-provoz/">Silniční provoz</a></td></tr>
+    <tr><td><a href="/hlasovani/minimalni-dph/">Minimum standard rate of VAT *</a></td></tr>
   
-    <tr><td><a href="/hlasovani/zakonik-prace/">Zákoník práce</a></td></tr>
+    <tr><td><a href="/hlasovani/ochrana-pred-dotovanym-dovozem/">Protection against subsidised imports from countries not members of the EU ***I</a></td></tr>
   
-    <tr><td><a href="/hlasovani/loterie/">Loterie</a></td></tr>
+    <tr><td><a href="/hlasovani/ochrana-pred-dumpingem/">Protection against dumped imports from countries not members of the EU ***I</a></td></tr>
   
-    <tr><td><a href="/hlasovani/elektronicke-recepty/">Léčiva</a></td></tr>
+    <tr><td><a href="/hlasovani/vstup-a-pobyt-prislucniku-cizich-zemi/">Entry and residence of third-country nationals for the purposes of research, studies, training, volunteering, pupil exchange and au pairing ***II</a></td></tr>
   
-    <tr><td><a href="/hlasovani/danovy-rad/">Daňový řád (zamítnutí)</a></td></tr>
+    <tr><td><a href="/hlasovani/boj-s-nelegalnimi-cigaretami/">Eliminating illicit trade in tobacco products: protocol to the WHO Framework Convention ***</a></td></tr>
   
-    <tr><td><a href="/hlasovani/stavebni-rizeni/">Stavební řízení</a></td></tr>
+    <tr><td><a href="/hlasovani/akceptace-dokumentu/">Promoting free movement by simplifying the acceptance of certain public documents ***II</a></td></tr>
+  
+    <tr><td><a href="/hlasovani/energeticka-efektivnost/">Energy efficiency labelling ***I</a></td></tr>
+  
+    <tr><td><a href="/hlasovani/zalozeni-evropske-agentury-na-bezpecnost-na-morich/">European Maritime Safety Agency ***I</a></td></tr>
+  
+    <tr><td><a href="/hlasovani/emise-atmosferickych-polutantu/">Emissions of certain atmospheric pollutants ***I</a></td></tr>
+  
+    <tr><td><a href="/hlasovani/jednotna-zeleznicni-oblast/">Single European railway area ***II</a></td></tr>
+  
+    <tr><td><a href="/hlasovani/ceta/">EU-Canada Comprehensive Economic and Trade Agreement ***</a></td></tr>
+  
+    <tr><td><a href="/hlasovani/redukce-emisi/">Cost-effective emission reductions and low-carbon investments ***I</a></td></tr>
+  
+    <tr><td><a href="/hlasovani/odpad/">Waste ***I</a></td></tr>
+  
+    <tr><td><a href="/hlasovani/odpad-2/">Landfill of waste ***I</a></td></tr>
+  
+    <tr><td><a href="/hlasovani/odpad-3/">Packaging and packaging waste ***I</a></td></tr>
+  
+    <tr><td><a href="/hlasovani/vicelety-financni-ramec/">Multiannual financial framework for 2014-2020 ***</a></td></tr>
+  
+    <tr><td><a href="/hlasovani/financni-dohoda-s-ehp/">Agreement between the EU, Iceland, Liechtenstein and Norway on an EEA Financial Mechanism 2014-2021 ***</a></td></tr>
+  
+    <tr><td><a href="/hlasovani/preshranicni-prenosnost-online-obsahu/">Cross-border portability of online content services in the internal market ***I</a></td></tr>
+  
+    <tr><td><a href="/hlasovani/boj-s-poskozovanim-financnich-zajmu-eu/">Fight against fraud to the Union's financial interests by means of criminal law ***II</a></td></tr>
+  
+    <tr><td><a href="/hlasovani/esfd/">European Fund for Sustainable Development (EFSD) and establishing the EFSD Guarantee and the EFSD Guarantee Fund ***I</a></td></tr>
+  
+    <tr><td><a href="/hlasovani/europrokurator/">Enhanced cooperation: European Public Prosecutor's Office ***</a></td></tr>
+  
+    <tr><td><a href="/hlasovani/fosfaty-v-kebabech/">Objection to an implementing act: use of phosphoric acid – phosphates – di – tri – and polyphosphates (E 338-452) in frozen vertical meat spits</a></td></tr>
+  
+    <tr><td><a href="/hlasovani/pojmenuj/">Energy efficiency ***I</a></td></tr>
+  
+    <tr><td><a href="/hlasovani/program-kreativni-evropa/">Creative Europe Programme (2014 to 2020) ***I</a></td></tr>
+  
+    <tr><td><a href="/hlasovani/spolecny-zaklad-pro-dppo/">Common Consolidated Corporate Tax Base *</a></td></tr>
+  
+    <tr><td><a href="/hlasovani/evropske-politicke-nadace/">Statute and funding of European political parties and European political foundations ***I</a></td></tr>
+  
+    <tr><td><a href="/hlasovani/snizeni-emisi-podle-parizske-dohody/">Binding annual greenhouse gas emission reductions to meet commitments under the Paris Agreement ***I</a></td></tr>
+  
+    <tr><td><a href="/hlasovani/energeticky-vykon-budov/">Energy performance of buildings ***I</a></td></tr>
+  
+    <tr><td><a href="/hlasovani/smernice-o-vyslanych-pracovnicich/">Posting of workers in the framework of the provision of services ***I</a></td></tr>
+  
+    <tr><td><a href="/hlasovani/namitka--kukurice/">Objection pursuant to Rule 106: genetically modified maize GA21 (MON-ØØØ21-9) (D056125)</a></td></tr>
+  
+    <tr><td><a href="/hlasovani/omezeni-doby-provozu-pro-kamiony/">Daily and weekly driving times, minimum breaks and rest periods and positioning by means of tachographs ***I</a></td></tr>
+  
+    <tr><td><a href="/hlasovani/etias/">European Travel Information and Authorisation System (ETIAS) ***I</a></td></tr>
+  
+    <tr><td><a href="/hlasovani/nestandardni-lahve-pro-socu/">Nominal quantities for placing on the Union market of single distilled shochu ***I</a></td></tr>
+  
+    <tr><td><a href="/hlasovani/boj-s-pranim-spinavych-penez-pomoci-trestniho-prava/">Countering money laundering by criminal law ***I</a></td></tr>
+  
+    <tr><td><a href="/hlasovani/povinny-podil-evropskych-del-na-netflixu/">Provision of audiovisual media services ***I</a></td></tr>
+  
+    <tr><td><a href="/hlasovani/dovoz-kulturnich-statku/">Import of cultural goods ***I</a></td></tr>
+  
+    <tr><td><a href="/hlasovani/prava-a-povinnosti-pasazeru-pri-ceste-vlakem/">Rail passengers' rights and obligations ***I</a></td></tr>
+  
+    <tr><td><a href="/hlasovani/horizont-evropa/">Establishing Horizon Europe – laying down its rules for participation and dissemination ***I</a></td></tr>
+  
+    <tr><td><a href="/hlasovani/obchodni-dohoda-eu-japonsko/">EU-Japan Economic Partnership Agreement ***</a></td></tr>
+  
+    <tr><td><a href="/hlasovani/vesmirny-program-eu/">Establishing the space programme of the Union and the European Union Agency for the Space Programme ***I</a></td></tr>
+  
+    <tr><td><a href="/hlasovani/digitalni-dan/">Common system of a digital services tax on revenues resulting from the provision of certain digital services *</a></td></tr>
+  
+    <tr><td><a href="/hlasovani/efg/">European Globalisation Adjustment Fund (EGF) ***I</a></td></tr>
+  
+    <tr><td><a href="/hlasovani/obchodni-dohoda-eu-singapur/">EU-Singapore Free Trade Agreement ***</a></td></tr>
+  
+    <tr><td><a href="/hlasovani/dopravni-spolecenstvi/">Treaty establishing the Transport Community ***</a></td></tr>
+  
+    <tr><td><a href="/hlasovani/pojmenuj-2/">Mutual recognition of goods lawfully marketed in another Member State ***I</a></td></tr>
+  
+    <tr><td><a href="/hlasovani/neferove-obchodni-praktiky/">Unfair trading practices in business-to-business relationships in the food supply chain ***I</a></td></tr>
+  
+    <tr><td><a href="/hlasovani/copyright/">Copyright in the Digital Single Market ***I</a></td></tr>
+  
+    <tr><td><a href="/hlasovani/emise-lehkych-vozidel/">Emission performance standards for new passenger cars and for new light commercial vehicles ***I</a></td></tr>
+  
+    <tr><td><a href="/hlasovani/zakaz-brcek/">Reduction of the impact of certain plastic products on the environment ***I</a></td></tr>
+  
+    <tr><td><a href="/hlasovani/evropsky-organ-pro-pracovni-zalezitosti/">European Labour Authority ***I</a></td></tr>
+  
+    <tr><td><a href="/hlasovani/fiscalis/">Fiscalis programme for cooperation in the field of taxation ***I</a></td></tr>
+  
+    <tr><td><a href="/hlasovani/program-spravedlnost/">Justice programme ***I</a></td></tr>
+  
+    <tr><td><a href="/hlasovani/program-prava-a-hodnoty/">Rights and Values programme ***I</a></td></tr>
+  
+    <tr><td><a href="/hlasovani/life/">Programme for the Environment and Climate Action (LIFE) ***I</a></td></tr>
+  
+    <tr><td><a href="/hlasovani/emise-kamiony/">CO2 emission performance standards for new heavy-duty vehicles ***I</a></td></tr>
+  
+    <tr><td><a href="/hlasovani/zakaz-glyfosatu/">Obnovení schválení účinné látky glyfosát (námitka podle článku 106 jednacího řádu)</a></td></tr>
   
   </tbody>
 </table>
@@ -342,7 +442,7 @@
 
   
   <!--- Share on Twitter -->
-    <a href="https://twitter.com/intent/tweet?text=Seznam+hlasov%C3%A1n%C3%AD+http://www.skoresenatoru.cz/hlasovani/index.html"
+    <a href="https://twitter.com/intent/tweet?text=Seznam+hlasov%C3%A1n%C3%AD+http://localhost:4000/hlasovani/index.html"
       class="btn btn-social-icon btn-twitter" title="Share on Twitter">
       <span class="fa fa-fw fa-twitter" aria-hidden="true"></span>
       <span class="sr-only">Twitter</span>
@@ -351,7 +451,7 @@
 
   
   <!--- Share on Facebook -->
-    <a href="https://www.facebook.com/sharer/sharer.php?u=http://www.skoresenatoru.cz/hlasovani/index.html"
+    <a href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:4000/hlasovani/index.html"
       class="btn btn-social-icon btn-facebook" title="Share on Facebook">
       <span class="fa fa-fw fa-facebook" aria-hidden="true"></span>
       <span class="sr-only">Facebook</span>
@@ -430,11 +530,11 @@
         <p class="copyright text-muted">
 		  Liberalni institut
 		  &nbsp;&bull;&nbsp;
-		  2018
+		  2019
 
 		  
 		  &nbsp;&bull;&nbsp;
-		  <a href="http://www.skoresenatoru.cz">skoresenatoru.cz</a>
+		  <a href="http://localhost:4000">skoreeuroposlancu.cz</a>
 		  
 	    </p>
 	        <!-- Please don't remove this, keep my open source work credited :) -->
