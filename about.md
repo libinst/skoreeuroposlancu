@@ -6,7 +6,7 @@ permalink: /o-projektu/index.html
 
 Skóreeuroposlanců.cz je projekt [Liberálního institutu](http://libinst.cz) a je inspirován již řadu let trvajícím projektem americké organizace [FreedomWorks](http://congress.freedomworks.org).
 
-Identifikujeme klíčová hlasování, důležitá pro oblasti, kterým se věnuje Liberální institut, tj. svoboda jednotlivce, volný trh, vláda s omezenými pravomocemi a mír. Obecně řečeno dáváme negativní bod europoslancovi, který hlasuje pro omezení svobody a/nebo větší centralizaci a harmonizaci, a pozitivní bod europoslancovi, který hlasuje naopak. Skóre 100 % tedy znamená, že europoslanec hlasuje vždy pro více svobody a méně centralizace; −100 % naopak znamená, že europoslanec vždy hlasuje pro méně svobody a více centralizace. V potaz bereme pouze konečná hlasování u legislativních aktů, nezávazné směrnice neanalyzujeme.
+Identifikujeme klíčová hlasování, důležitá pro oblasti, kterým se věnuje Liberální institut, tj. svoboda jednotlivce, volný trh, vláda s omezenými pravomocemi a mír. Obecně řečeno dáváme negativní bod europoslancovi, který hlasuje pro omezení svobody a/nebo větší centralizaci a harmonizaci, a pozitivní bod europoslancovi, který hlasuje naopak. Skóre 100 % tedy znamená, že europoslanec hlasuje vždy pro více svobody a méně centralizace; −100 % naopak znamená, že europoslanec vždy hlasuje pro méně svobody a více centralizace. V potaz bereme pouze konečná hlasování u legislativních aktů, nezávazné rezoluce neanalyzujeme.
 
 Všechna hlasování mají stejnou váhu a průběžně se u jednotlivých europoslanců sčítají, takže můžeme sestavit žebříček europoslanců od nejliberálnějších po nejméně liberální.
 
@@ -33,14 +33,9 @@ Našli jste chybu? Dejte nám vědět.
 [PayPal.me/libinst](PayPal.me/libinst)
 
 ### Bitcoinem
-[1BxcHs3dWHMgwqQEu5DUtYpCsgrQ6quwm2](https://blockchain.info/address/1BxcHs3dWHMgwqQEu5DUtYpCsgrQ6quwm2)
+[3DyLVm2w78DPcZRe1cjy4ANBMmLFLvJUUD](https://blockchain.info/qr?data=3DyLVm2w78DPcZRe1cjy4ANBMmLFLvJUUD)
 
-<img src="https://i2.wp.com/libinst.cz/wp-content/uploads/2017/07/btcadresa.png?resize=250%2C250">
-
-### Litecoinem
-[LUypQoZCQvUycsQCefNhRtrmrjwWSkHikE](https://live.blockcypher.com/ltc/address/LUypQoZCQvUycsQCefNhRtrmrjwWSkHikE/?fref=gc)
-
-<img src="https://i0.wp.com/libinst.cz/wp-content/uploads/2017/07/ltcwallet.png?w=702">
+[![3DyLVm2w78DPcZRe1cjy4ANBMmLFLvJUUD](https://blockchain.info/qr?data=3DyLVm2w78DPcZRe1cjy4ANBMmLFLvJUUD)](https://blockchain.info/qr?data=3DyLVm2w78DPcZRe1cjy4ANBMmLFLvJUUD)
 
 ---
 

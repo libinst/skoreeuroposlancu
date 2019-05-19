@@ -417,7 +417,7 @@
     "datum": "5. dubna 2017",
     "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2016/0283(APP)",
     "poziceli": "PROTI",
-    "vysvetleni": ""
+    "vysvetleni": "Navýšení maximálního ročního rozpočtu Emergency Aid Reserve a zrušení dalších rozpočtových limitů."
   },
   {
     "slug": "financni-dohoda-s-ehp",
@@ -427,7 +427,7 @@
     "datum": "18. května 2017",
     "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2015/0276(COD)",
     "poziceli": "PROTI",
-    "vysvetleni": ""
+    "vysvetleni": "Dohoda o přispění 2,8 miliard eur ze strany států EFTA EHP na strategii Europe 2020 a dalších zdrojů pro boj s nezaměstnaností mladých lidí. Island dále bude moci zvýšit dvě celní sazby. Další ústupky ohledně sazeb získalo Norsko, spolu s prodloužením dohody o rybářské dopravě."
   },
   {
     "slug": "preshranicni-prenosnost-online-obsahu",
@@ -447,7 +447,7 @@
     "datum": "5. července 2017",
     "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2012/0193(COD)",
     "poziceli": "PRO",
-    "vysvetleni": ""
+    "vysvetleni": "Definice finančních zájmů Unie a daňového podvodu jako porušení těchto zájmů, harmonizace boje proti podvodům na odvodu DPH. Hlasovalo se o zamítacím návrhu."
   },
   {
     "slug": "esfd",
@@ -457,7 +457,7 @@
     "datum": "6. července 2017",
     "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2016/0281(COD)",
     "poziceli": "PROTI",
-    "vysvetleni": ""
+    "vysvetleni": "Zřízení Evropského fondu pro udržitelný rozvoj pro plnění Agendy 2030, zejména za účelem financování projektů s cílem podpory udržitelného růstu, tvorby pracovních míst v Africe a sousedních regionech."
   },
   {
     "slug": "europrokurator",
@@ -467,26 +467,27 @@
     "datum": "5. října 2017",
     "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2013/0255(APP)",
     "poziceli": "PROTI",
-    "vysvetleni": ""
+    "vysvetleni": "Vytvoření úřadu evropského veřejného žalobce s cílem hájit finanční zájmy Unie. Centralizace v oblasti, do které Unie nemá vůbec mluvit (trestní právo)."
   },
   {
     "slug": "fosfaty-v-kebabech",
     "_cokwr": "Fosfáty v kebabech",
-    "nazev": "Námitka vůči prováděcímu aktu:použití kyseliny fosforečné, fosforečnanů, di-, tri- a polyfosforečnanů (E 338–452) ve zmrazených masných homolích pro vertikální grilování",
+    "nazev": "Námitka vůči prováděcímu aktu: použití kyseliny fosforečné, fosforečnanů, di-, tri- a polyfosforečnanů (E 338–452) ve zmrazených masných homolích pro vertikální grilování",
     "cislo": "B8-0666/2017 - Résolution",
     "datum": "13. prosince 2017",
     "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2017/2920(RPS)",
     "poziceli": "PROTI",
-    "vysvetleni": ""
+    "vysvetleni": "Evropská komise navrhovala prodloužit certifikaci zcela neškodných fosfátů používaných v kebabech. Hlasovalo se o námitce proti tomuto prodloužení."
   },
   {
-    "slug": "pojmenuj",
+    "slug": "energeticka-ucinnost",
+    "_cokwr": "Energetická účinnost",
     "nazev": "Energetická účinnost ***I",
     "cislo": "A8-0391/2017 - Miroslav Poche - Am 120",
     "datum": "13. listopadu 2018",
     "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2016/0376(COD)",
     "poziceli": "PROTI",
-    "vysvetleni": ""
+    "vysvetleni": "Změna směrnice, nastavuje závazný cíl 30 % energetické účinnosti do roku 2030 spolu s dalšími závaznými cíly stran úspory energií."
   },
   {
     "slug": "program-kreativni-evropa",
@@ -496,7 +497,7 @@
     "datum": "15. března 2018",
     "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2017/0163(COD)",
     "poziceli": "PROTI",
-    "vysvetleni": ""
+    "vysvetleni": "Úprava programu Kreativní Evropa tak, aby byla zajištěna udržitelná podpora European Union Youth Orchestra (EUYO)"
   },
   {
     "slug": "spolecny-zaklad-pro-dppo",
@@ -506,7 +507,7 @@
     "datum": "15. března 2018",
     "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2016/0336(CNS)",
     "poziceli": "PROTI",
-    "vysvetleni": ""
+    "vysvetleni": "Jedná se o další krok v tvorbě konsolidovaného celoevropského zdanění korporací vytvořením společného základu daně z korporátních příjmů. Na rozdíl od návrhu z roku 2011 bude tento povinný pro korporace s ročním obratem nad 750 milionů eur."
   },
   {
     "slug": "evropske-politicke-nadace",
@@ -699,7 +700,8 @@
     "vysvetleni": "Návrh integruje dopravní cesty na Západním Balkáně do unijního dopravního trhu a harmonizuje právo zemí ze Západního Balkánu s komunitárním acquis v oblasti dopravy."
   },
   {
-    "slug": "pojmenuj-2",
+    "slug": "vzajemne-uznavani-zbozi",
+    "_cokwr": "Vzájemné uznávání zboží",
     "nazev": "Vzájemné uznávání zboží uvedeného v souladu s právními předpisy na trh v jiném členském státě ***I",
     "cislo": "A8-0274/2018 - Ivan Štefanec - Am 82",
     "datum": "14. února 2019",
