@@ -1,258 +1,820 @@
 [
   {
-    "slug": "eet",
-    "nazev": "EET",
-    "pspurl": "http://senat.cz/xqw/xervlet/pssenat/hlasy?G=15779&O=10",
-    "schuze": "20. schůze, 6. hlasování, 16.03.2016 201/10 - Návrh zákona, kterým se mění některé zákony v souvislosti s přijetím zákona o evidenci tržeb",
-    "poziceli": "PROTI",
-    "vysvetleni": "Elektronická evidence tržeb znamená zvýšené náklady na podnikatele, nepřijatelé narušení soukromí podnikatelů a drakonické pokuty, které nejsou v souladu s právním státem."
-  },
-  {
-    "slug": "kontrolni-hlaseni",
-    "nazev": "Kontrolní hlášení",
-    "pspurl": "http://www.senat.cz/xqw/xervlet/pssenat/hlasy?G=15023&O=10",
-    "schuze": "3. schůze, 25. hlasování, 10.12.2014 380/ 9 - Návrh zákona, kterým se mění zákon č. 235/2004 Sb., o dani z přidané hodnoty, ve znění pozdějších předpisů, a další související zákony",
-    "poziceli": "PROTI",
-    "vysvetleni": "Kontrolní hlášení DPH znamená zvýšené náklady na již tak byrokraticky zatížené podniky a drakonické pokuty nejsou v souladu s právním státem."
-  },
-  {
-    "slug": "zakaz-koureni-v-restauracich",
-    "nazev": "Zákaz kouření v restauracích",
-    "pspurl": "http://www.senat.cz/xqw/xervlet/pssenat/hlasy?G=16511&O=11",
-    "schuze": "4. schůze, 46. hlasování, 19.1.2017 28/11 - Návrh zákona o ochraně zdraví před škodlivými účinky návykových látek",
-    "poziceli": "PROTI",
-    "vysvetleni": "Nový zákon drastickým způsobem omezuje svobodu podnikání a svobodu volby kuřáků, způsobuje taktéž nezamýšlenou externalitu, kdy se před restaurací hromadí kuřáci, čímž způsobují na dosud klidné ulici před restauračním zařízením hluk a nepořádek, zatímco dosud mohli být uvnitř."
-  },
-  {
-    "slug": "politicke-strany",
-    "nazev": "Novela zákona o politických stranách",
-    "pspurl": "http://www.senat.cz/xqw/xervlet/pssenat/hlasy?G=16165&O=10",
-    "schuze": "27. schůze, 15. hlasování, 24. 8. 2016 Návrh zákona, kterým se mění zákon č. 424/1991 Sb., o sdružování v politických stranách a v politických hnutích, ve znění pozdějších předpisů, a další související zákony",
-    "poziceli": "PROTI",
-    "vysvetleni": "Zákon bezprecedentním způsobem omezuje svobodu politického projevu, neboť stanoví finanční limity pro podporu politických názorů, se kterými občané souhlasí. Zákon dále omezuje konkurenci politických stran, neboť na politické strany uvaluje nesmyslné podmínky, čímž zejména malé strany zatěžuje nesmyslnou byrokracií. Zákon zavádí nový úřad na zrušení, kterýbude orwellovsky posuzovat, jak má vypadat správná politická kampaň. Zákon omezuje svobodu projevu i tím, že nutí občany registrovat se, i když pouze chtějí (byť zdarma) projevit podporu politické straně. Zákon také přičítá politickým stranám reklamu jednotlivců, nad kterou nemohou mít z podstaty věci žádnou kontrolu."
-  },
-  {
-    "slug": "prokazovani-majetku",
-    "nazev": "Zákon o prokazování původu majetku",
-    "pspurl": "http://www.senat.cz/xqw/xervlet/pssenat/hlasy?G=16180&O=10",
-    "schuze": "27. schůze, 30. hlasování, 24. 8. 2016 316/10 - Návrh zákona, kterým se mění některé zákony v souvislosti s prokazováním původu majetku",
-    "poziceli": "PROTI",
-    "vysvetleni": "Zákon zasahuje do soukromí občanů a je v rozporu s právním státem, aby svůj majetek musel dokládat někdo, kdo není podezřelý z trestného činu. Mít velký majetek není samo o sobě nijak podezřelé a nesmí zakládat důvod pro zásahy do soukromí. Senát schválil pozměňovací návrh, který zákon zpřísnil. Sněmovna poté zákon schválila ve znění schváleném Senátem."
-  },
-  {
-    "slug": "zakaz-kozesinovych-farem",
-    "nazev": "Zákaz kožešinových farem",
-    "pspurl": "http://www.senat.cz/xqw/xervlet/pssenat/hlasy?G=16936&O=11",
-    "schuze": "8. schůze, 87. hlasování, 20. 7. 2017 147/11 - Návrh zákona, kterým se mění zákon č. 246/1992 Sb., na ochranu zvířat proti týrání, ve znění pozdějších předpisů",
-    "poziceli": "PROTI",
-    "vysvetleni": "Důsledkem zákona bude nárůst počtu ilegálních farem, kde je se zvířaty zacházeno výrazně hůře než na legálních farmách, popř. se obchod přesune do zemí, které obdobný zákon nemají."
-  },
-  {
-    "slug": "zneuziti-vyznamne-trzni-sily",
-    "nazev": "Novela zákona o zneužití významné tržní síly",
-    "pspurl": "http://www.senat.cz/xqw/xervlet/pssenat/hlasy?G=15692&O=10",
-    "schuze": "18. schůze, 11. hlasování, 13.1.2016 174/10 - Návrh zákona, kterým se mění zákon č. 395/2009 Sb., o významné tržní síle při prodeji zemědělských a potravinářských produktů a jejím zneužití",
-    "poziceli": "PROTI",
-    "vysvetleni": "Původní zákon i tato jeho novela omezují svobodu podnikání supermarketů a smluvní svobodu mezi supermarkety a jejich dodavateli."
-  },
-  {
-    "slug": "pohrebnictvi",
-    "nazev": "Novela zákona o pohřebnictví (zákaz papírových rakví)",
-    "pspurl": "http://www.senat.cz/xqw/xervlet/pssenat/hlasy?G=16761&O=11",
-    "schuze": "7. schůze, 24. hlasování, 31.5.2017 122/11 - Návrh zákona, kterým se mění zákon č. 256/2001 Sb., o pohřebnictví a o změně některých zákonů, ve znění pozdějších předpisů, a další související zákony",
-    "poziceli": "PROTI",
-    "vysvetleni": "Novela zavádí nový trestný čin \"hanobení lidských ostatků\" tam, kde dosavadní úprava plně dostačovala, zbytečně zpřísňuje sankce, ztěžuje výkon povolání neodůvodněnou nutností složení zkoušky a nutnost pěti-, resp. desetileté praxe, a zakazuje jeden typ rakví (papírové), čímž zasahuje do sféry, která státu nenáleží."
-  },
-  {
-    "slug": "statni-sluzba",
-    "nazev": "Zákon o státní službě",
-    "pspurl": "http://www.senat.cz/xqw/xervlet/pssenat/hlasy?G=14782&O=9",
-    "schuze": "25. schůze, 6. hlasování, 1.10.2014 336/ 9 - Návrh zákona o státní službě",
-    "poziceli": "PROTI",
-    "vysvetleni": "Zákon o státní službě má za cíl odpolitizovat a zprofesionalizovat státní správu, avšak vede k petrifikaci úřednictva a k jeho imunizaci před politickým vlivem, který jako jediný může sloužit jako protiváha přirozeným motivacím státní byrokracie, jimiž jsou mj. snaha o co nejvíce regulací a co největší narůstání jednotlivých úřadů."
-  },
-  {
-    "slug": "prace-na-dohodu",
-    "nazev": "Zákaz pracovat na dohodu, pokud je člověk vedený na úřadu práce",
-    "pspurl": "http://www.senat.cz/xqw/xervlet/pssenat/hlasy?G=16828&O=11",
-    "schuze": "7. schůze, 73. hlasování, 8.6.2017 Návrh zákona, kterým se mění zákon č. 435/2004 Sb., o zaměstnanosti, ve znění pozdějších předpisů, a další související zákony",
-    "poziceli": "PROTI",
-    "vysvetleni": "Novela znemožňuje pracovat \"na dohodu\" lidem vedeným na úřadu práce, čímž přispívá k jejich dlouhodobé nezaměstnanosti, protože nemohou získat pracovní zkušenosti a naučit se nové dovednosti přímo v práci, a znemožňuje jim možnost přivýdělku."
-  },
-  {
-    "slug": "predskolni-vzdelavani",
-    "nazev": "Povinné předškolní vzdělávání",
-    "pspurl": "http://www.senat.cz/xqw/xervlet/pssenat/hlasy?G=15880&O=10",
-    "schuze": "22. schůze, 12. hlasování, 20.4.2016 Návrh zákona, kterým se mění zákon č. 561/2004 Sb., o předškolním, základním, středním, vyšším odborném a jiném vzdělávání (školský zákon), ve znění pozdějších předpisů, a zákon č. 200/1990 Sb., o přestupcích, ve znění",
-    "poziceli": "PROTI",
-    "vysvetleni": "Neexistuje sebemenší důvod pro zavedení povinného posledního roku školky, zákon zasahuje rodičům do výchovy dětí a pod hrozbou pokuty je nutí k něčemu, k čemu je ve svobodné společnosti nutit nesmí. Z omluvenek do školky navíc udělal byrokratickou mašinérii, čímž zatížil jak rodiče, tak školky."
-  },
-  {
-    "slug": "prodej-o-svatcich",
-    "nazev": "Zákaz prodeje o svátcích",
-    "pspurl": "http://www.senat.cz/xqw/xervlet/pssenat/hlasy?G=15994&O=10",
-    "schuze": "24. schůze, 26. hlasování, 25.5.2016 263/10 - Návrh zákona o prodejní době v maloobchodě a velkoobchodě",
-    "poziceli": "PROTI",
-    "vysvetleni": "Zákaz prodeje o státních svátcích výrazně zasahuje do svobody podnikání zcela diskriminačním způsobem, když pouze jednomu typu podniků stanovuje zákaz provozu v určené dny. Zákon zároveň omezuje smluvní volnost a svobodu zolit si zaměstnání, když opět diskriminačně zakazuje pouze jeden druh zaměstnání a zcela nelogicky umožňuje např. i v \"zakázaných dnech\" doplňovat sklad. Ze zákazníků zákon dělá svoje otroky, kteří se musí na dané dny předzásobit, přestože řada z nich by právě volného dne ráda využila k většímu nákupu. Senát schválil pozměňovací návrh, jenže počet zakázaných dní zvedl ze tří na sedm. Sněmovna schválila zákon ve znění přijatém Senátem."
-  },
-  {
-    "slug": "treti-sazba-dph",
-    "nazev": "Třetí sazba DPH",
-    "pspurl": "http://www.senat.cz/xqw/xervlet/pssenat/hlasy?G=14870&O=9",
-    "schuze": "26. schůze, 38. hlasování, 23.10.2014 345/ 9 - Návrh zákona, kterým se mění zákon č. 235/2004 Sb., o dani z přidané hodnoty, ve znění pozdějších předpisů, a další související zákony",
+    "slug": "gmo",
+    "_cokwr": "GMO",
+    "nazev": "Possibility for the Member States to restrict or prohibit the cultivation of GMOs ***II",
+    "cislo": "A8-0038/2014 - Frédérique Ries - Am 52 (Block 1)",
+    "datum": "13. ledna 2015",
+    "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2010/0208(COD)",
     "poziceli": "PRO",
-    "vysvetleni": "Ačkoliv nesouhlasíme s rozdělením DPH na tři sazby a ačkoliv podporujeme jednotnou sazbu DPH, musíme uznat, že zavedením třetí – 10% – sazby došlo u některých výrobků (dětské výrobky, léky, knihy) ke snížení daní, aniž byly dotčeny původní sazby 15 a 21 %. Novelu vidíme jako mírné plus, a to i s přihlédnutím k tomu, že bez jejího schválení by od 1. 1. 2016 začala platit jednotná – avšak příliš vysoká – sazba 17,5 %."
+    "vysvetleni": "Pozměňovací návrh oproti původnímu textu Komise mírně rozšiřuje pravomoci členských států."
   },
   {
-    "slug": "uber",
-    "nazev": "Taxíky proti Uberu",
-    "pspurl": "http://www.senat.cz/xqw/xervlet/pssenat/hlasy?G=16976&O=11",
-    "schuze": "9. schůze, 14. hlasování, 16.8.2017 Návrh zákona, kterým se mění zákon č. 111/1994 Sb., o silniční dopravě, ve znění pozdějších předpisů, a další související zákony",
+    "slug": "poplatky-pri-platbe-kartou",
+    "_cokwr": "Poplatky při patbě kartou",
+    "nazev": "Interchange fees for card-based payment transactions ***I",
+    "cislo": "A8-0022/2015 - Pablo Zalba Bidegain - Résolution législative",
+    "datum": "10. března 2015",
+    "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2013/0265(COD)",
     "poziceli": "PROTI",
-    "vysvetleni": "Tmářská novela nezrovnoprávnňuje moderní technologie (aplikace s lokalizací pomocí GPS apod.) s taxametrem a zpřísňuje pokuty za nelegální taxislužbu a posiluje pravomoce obcí při stanovování podmínek pro výkon taxislužby."
+    "vysvetleni": ""
   },
   {
-    "slug": "prestupky",
-    "nazev": "Novela zákona o přestupcích",
-    "pspurl": "http://www.senat.cz/xqw/xervlet/pssenat/hlasy?G=15407&O=10",
-    "schuze": "10. schůze, 40. hlasování, 23.7.2015 Návrh zákona, kterým se mění zákon č. 200/1990 Sb., o přestupcích, ve znění pozdějších předpisů, zákon č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů, a některé další zákony",
+    "slug": "zrizeni-socialniho-vyboru",
+    "_cokwr": "Zřízení sociálního výboru",
+    "nazev": "Decision establishing the Social Protection Committee *",
+    "cislo": "A8-0066/2015 - Marita Ulvskog - Vote unique",
+    "datum": "15. dubna 2015",
+    "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2015/0802(CNS)",
     "poziceli": "PROTI",
-    "vysvetleni": "Novela zpřísňuje postihy a zavádí registry přestupků, do kterých mohou nahlížet obce, aniž přesvědčivě zdůvodňuje nutnost úpravy."
+    "vysvetleni": ""
   },
   {
-    "slug": "bezpecnost-cr",
-    "nazev": "Novela ústav. z. o bezpečnosti České republiky",
-    "pspurl": "http://www.senat.cz/xqw/xervlet/pssenat/hlasy?G=17145&O=11",
-    "schuze": "11. schůze, 34. hlasování, 6.12.2017 165/11 - Návrh ústavního zákona, kterým se mění ústavní zákon č. 110/1998 Sb., o bezpečnosti České republiky, ve znění ústavního zákona č. 300/2000 Sb.",
+    "slug": "zrizeni-vyboru-zamestnanosti",
+    "_cokwr": "Zřízení výboru zaměstnanosti",
+    "nazev": "Decision establishing the Employment Committee *",
+    "cislo": "A8-0065/2015 - Marita Ulvskog - Vote unique",
+    "datum": "15. dubna 2015",
+    "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2015/0801(CNS)",
+    "poziceli": "PROTI",
+    "vysvetleni": ""
+  },
+  {
+    "slug": "snizeni-limitu-na-biopaliva",
+    "_cokwr": "Snížení limitů na biopaliva",
+    "nazev": "Fuel quality directive and renewable energy directive ***II",
+    "cislo": "A8-0025/2015 - Nils Torvalds - Am 98",
+    "datum": "28. dubna 2015",
+    "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2012/0288(COD)",
     "poziceli": "PRO",
-    "vysvetleni": "Zákon zakotvuje právo na držení a nošení zbraně do ústavního pořádku, čímž zavádí lepší ochranu před odstraňováním nebo omezováním tohoto práva."
+    "vysvetleni": ""
   },
   {
-    "slug": "registr-smluv",
-    "nazev": "Registr smluv",
-    "pspurl": "https://www.senat.cz/xqw/xervlet/pssenat/hlasy?G=15518&O=10",
-    "schuze": "13. schůze, 21. hlasování, 22.10.2015 - 126/10 - Návrh zákona o zvláštních podmínkách účinnosti některých smluv, uveřejňování těchto smluv a o registru smluv (zákon o registru smluv), 1.pozměňovací návrh",
-    "poziceli": "PROTI",
-    "vysvetleni": "Pozměňovací návrh, který vypustil neplatnost smluv, pokud nejsou uveřejněny v registru. Sněmovna schválila zákon ve znění schváleném Senátem."
-  },
-  {
-    "slug": "danovy-balicek-2014",
-    "nazev": "Daňový balíček 2014",
-    "pspurl": "http://www.senat.cz/xqw/xervlet/pssenat/hlasy?G=14866&O=9",
-    "schuze": "26. schůze, 34. hlasování, 23.10.2014 343/ 9 - Návrh zákona, kterým se mění zákon č. 586/1992 Sb., o daních z příjmů, ve znění pozdějších předpisů, a další související zákony",
-    "poziceli": "PROTI",
-    "vysvetleni": "Novela zákona o dani z příjmu sice zvyšuje slevy na děti a obnovuje základní slevu pro pracující důchodce, avšak na druhé straně omezuje výdajové paušály OSVČ a upravuje daňový řád pro \"boj s daňovými úniky\". Celkově tedy novelu hodnotíme jako negativní."
-  },
-  {
-    "slug": "danovy-balicek-2017",
-    "nazev": "Daňový balíček 2017",
-    "pspurl": "https://www.senat.cz/xqw/xervlet/pssenat/hlasy?G=16573&O=11",
-    "schuze": "5. schůze, 30. hlasování, 08.03.2017 - 53/11 - Návrh zákona, kterým se mění některé zákony v oblasti daní, 1.pozměňovací návrh",
+    "slug": "zakaz-igelitek",
+    "_cokwr": "Zákaz igelitek (zamítací návrh)",
+    "nazev": "Reducing the consumption of lightweight plastic carrier bags ***II",
+    "cislo": "A8-0130/2015 - Margrete Auken - Am 1",
+    "datum": "28. dubna 2015",
+    "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2013/0371(COD)",
     "poziceli": "PRO",
-    "vysvetleni": "Pozměňovací návrh schválený Senátem, aby se DPH platilo pouze z pozemků, na kterých je stavba, nikoliv z přilehlých pozemků. Změkčuje zákon. Sněmovna setrvala na původním znění."
+    "vysvetleni": ""
   },
   {
-    "slug": "umele-oplodneni-svobodnych",
-    "nazev": "Umělé oplodnění pro svobodné ženy",
-    "pspurl": "http://www.senat.cz/xqw/xervlet/pssenat/hlasy?G=16826&O=11",
-    "schuze": "7. schůze, 71. hlasování, 08.06.2017 120/11 - Návrh zákona, kterým se mění zákon č. 373/2011 Sb., o specifických zdravotních službách, ve znění pozdějších předpisů, a některé další zákony",
-    "poziceli": "PRO",
-    "vysvetleni": "Pozměňovací návrh poslance Františka Adámka, který by umožnil i nesezdaným ženám, aby se nechaly uměle oplodnit od anonymního dárce."
-  },
-  {
-    "slug": "kontrola-kotlu",
-    "nazev": "Novela zákona o ochraně ovzduší",
-    "pspurl": "http://www.senat.cz/xqw/xervlet/pssenat/hlasy?G=16256&O=10",
-    "schuze": "28. schůze, 20. hlasování, 19.10.2016 332/10 - Návrh zákona, kterým se mění zákon č. 201/2012 Sb., o ochraně ovzduší, ve znění pozdějších předpisů, a zákon č. 634/2004 Sb., o správních poplatcích, ve znění pozdějších předpisů",
+    "slug": "evropsky-fond-pro-strategicke-investice",
+    "_cokwr": "Evropský fond pro strategické investice",
+    "nazev": "European Fund for Strategic Investments ***I",
+    "cislo": "A8-0139/2015 - José Manuel Fernandes et Udo Bullmann - Résolution législative",
+    "datum": "24. června 2015",
+    "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2015/0009(COD)",
     "poziceli": "PROTI",
-    "vysvetleni": "Novela zákona o ochraně ovzduší jednak umožňuje radám obcí, aby stanovovaly území, do kterých nesmí vjet \"neekologické\" automobily, avšak především zavádí možnost vstoupit lidem do soukromých domů a bytů, pokud existuje podezření – nijak nepodpořené soudním povolením –, že znečištění ovzduší pochází z kotle umístěného v tomto obydlí. Jde o obrovský zásah do soukromí a porušení práva na spravedlivý proces."
+    "vysvetleni": ""
   },
   {
-    "slug": "zdrazeni-cigaret",
-    "nazev": "Zdražení cigaret",
-    "pspurl": "http://www.senat.cz/xqw/xervlet/pssenat/hlasy?G=15557&O=10",
-    "schuze": "14. schůze, 15. hlasování, 11.11.2015 134/10 - Návrh zákona, kterým se mění zákon č. 353/2003 Sb., o spotřebních daních, ve znění pozdějších předpisů",
+    "slug": "akcionari",
+    "_cokwr": "Akcionáři",
+    "nazev": "Long-term shareholder engagement and corporate governance statement ***I",
+    "cislo": "A8-0158/2015 - Sergio Gaetano Cofferati - Proposition modifiée",
+    "datum": "8. července 2015",
+    "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2014/0121(COD)",
     "poziceli": "PROTI",
-    "vysvetleni": "Novela zvyšuje sazbu spotřební daně a navyšuje zdanění tabáku ke kouření o pět procentních bodů na 85 % minimálného zdanění cigaret. Navrhovatel (vláda) argumentuje, že bez novelizace by Česká republika přestala plnit závazky vyplývající ze směrnice EU, která stanoví minimální spotřební daň na 90 € na 1000 ks cigaret. Novela však \"pro jistotu\" počítá s vysokým kursem Kč vůči euru a ještě k této sazbě stanoví pojistku, čímž spotřební daň uměle navyšuje i nad požadavky směrnice EU. Vzhledem k očekávanému posílení kursu koruny by však ČR začala splňovat požadavky směrnice pravděpodobně dříve, než by EU stihla přistoupit k sakcím, novela tedy byla zbytečná. Poměr hlasů 148:1 ilustruje, jak bezmyšlenkovitě poslanci schválí cokoliv, co zavání povinností vůči EU."
+    "vysvetleni": ""
   },
   {
-    "slug": "blokovani-webu",
-    "nazev": "Blokování webů",
-    "pspurl": "http://www.senat.cz/xqw/xervlet/pssenat/hlasy?G=16024&O=10",
-    "schuze": "24. schůze, 50. hlasování, 26.05.2016 258/10 - Návrh zákona, kterým se mění některé zákony v souvislosti s přijetím zákona o hazardních hrách a zákona o dani z hazardních her",
+    "slug": "uprchlici",
+    "_cokwr": "Uprchlíci",
+    "nazev": "Provisional measures in the area of international protection for the benefit of Italy and Greece *",
+    "cislo": "A8-0245/2015 - Ska Keller - Résolution législative",
+    "datum": "9. září 2015",
+    "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2015/0125(NLE)",
     "poziceli": "PROTI",
-    "vysvetleni": "Vládní návrh zákona zpřísňuje provozování tzv. \"hazardních her\" a svěřuje ministerstvu vnitra cenzurovat weby – Sněmovna ani neschválila pozměňovací návrh, aby to bylo možné pouze se souhlasem soudu."
+    "vysvetleni": ""
   },
   {
-    "slug": "zpravodajske-sluzby",
-    "nazev": "Zpravodajské služby",
-    "pspurl": "http://www.senat.cz/xqw/xervlet/pssenat/hlasy?G=15436&O=10",
-    "schuze": "11. schůze, 11. hlasování, 12.08.2015 110/10 - Návrh zákona, kterým se mění zákon č. 153/1994 Sb., o zpravodajských službách České republiky, ve znění pozdějších předpisů, a některé další zákony",
+    "slug": "uprchlici-2",
+    "_cokwr": "Uprchlíci II",
+    "nazev": "Council decision establishing provisional measures in the area of international protection for the benefit of Italy, Greece and Hungary*",
+    "cislo": "C8-0271/2015 - Résolution législative",
+    "datum": "17. září 2015",
+    "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2015/0209(NLE)",
     "poziceli": "PROTI",
-    "vysvetleni": "Novela zákona o zpravodajských službách dala zpravodajským službám nové pravomoci, zejména získávat informace od (1) generálního finančního ředitelství, (2) zahraničních bank a (3) telefonních operátorů."
+    "vysvetleni": ""
   },
   {
-    "slug": "lecebne-konopi",
-    "nazev": "Léčebná marihuana",
-    "pspurl": "https://www.senat.cz/xqw/xervlet/pssenat/hlasy?G=13510&O=9",
-    "schuze": "4. schůze, 4. hlasování, 30.01.2013 16/ 9 - Návrh zákona, kterým se mění zákon č. 378/2007 Sb., o léčivech a o změnách některých souvisejících zákonů (zákon o léčivech), ve znění pozdějších předpisů, zákon č. 167/1998 Sb., o návykových látkách a o změně n",
-    "poziceli": "PRO",
-    "vysvetleni": "Příslušný paragraf povoluje konopí pouze pro léčivé účely, v omezeném množstí, a na lékařský předpis, tj. pacient je veden v registru podle kterého se sleduje vydané množství. Nejedná se o plošné povolení konzumace marihuany. I přesto povolení léčebného konopí umožňuje použít dosud nesmyslně zakazované léčivé přípravky, čímž rozšiřuje svobodu jednotlivce."
-  },
-  {
-    "slug": "prodej-o-svatcich-2013",
-    "nazev": "Prodej o svátcích 2013",
-    "pspurl": "https://www.senat.cz/xqw/xervlet/pssenat/hlasy?G=13926&O=9",
-    "schuze": "11. schůze, 49. hlasování, 26.06.2013 57/ 9 - Návrh senátního návrhu zákona senátora Františka Bublana a dalších o prodejní době v maloobchodě a velkoobchodě",
+    "slug": "esif-pro-recko",
+    "_cokwr": "ESIF pro Řecko",
+    "nazev": "Common provisions on European Structural and Investment Funds: specific measures for Greece ***I",
+    "cislo": "A8-0260/2015 - Iskra Mihaylova - Résolution législative",
+    "datum": "6. října 2015",
+    "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2015/0160(COD)",
     "poziceli": "PROTI",
-    "vysvetleni": "Zakazuje maloobchodům a velkoobchodům mít otevřeno o státních svátcích, Vánocích včetně 24.12., a Velikonocích. Zároveň dává výčet prodejen, které v tyto dny otevřeno mít mohou, přičemž parametrem je velikost prodejní plochy (do 200 m2) či převažující druh zboží (benzinky, lékárny). Tím nesmyslně diskriminuje ostatní prodejny, zakazuje lidem nakoupit si ve volný den, a zakazuje personálu jít do práce ve dny, kdy za práci zpravidla dostávají vyšší mzdu."
+    "vysvetleni": ""
   },
   {
-    "slug": "silnicni-provoz",
-    "nazev": "Silniční provoz",
-    "pspurl": "https://www.senat.cz/xqw/xervlet/pssenat/hlasy?G=13685&O=9",
-    "schuze": "6. schůze, 27. hlasování, 21.03.2013 50/ 9 - Návrh zákona, kterým se mění zákon č. 361/2000 Sb., o provozu na pozemních komunikacích a o změnách některých zákonů (zákon o silničním provozu), ve znění pozdějších předpisů",
-    "poziceli": "PRO",
-    "vysvetleni": "Mírně snižuje byrokracii posunutím hranice věku pro pravidelné povinné lékařské prohlídky ze 60 na 65 let."
-  },
-  {
-    "slug": "zakonik-prace",
-    "nazev": "Zákoník práce",
-    "pspurl": "https://www.senat.cz/xqw/xervlet/pssenat/hlasy?G=13756&O=9",
-    "schuze": "8. schůze, 13. hlasování, 25.04.2013 - 78/ 9 - Návrh zákona, kterým se mění zákon č. 262/2006 Sb., zákoník práce, ve znění pozdějších předpisů",
-    "poziceli": "PRO",
-    "vysvetleni": "Mírné uvolnění zákoníku práce. Sněmovna přijala zákon ve znění navrženém Senátem."
-  },
-  {
-    "slug": "loterie",
-    "nazev": "Loterie",
-    "pspurl": "https://www.senat.cz/xqw/xervlet/pssenat/hlasy?G=13883&O=9",
-    "schuze": "11. schůze, 25. hlasování, 20.06.2013 102/ 9 - Návrh zákona, kterým se mění zákon č. 202/1990 Sb., o loteriích a jiných podobných hrách, ve znění pozdějších předpisů, a zákon č. 586/1992 Sb., o daních z příjmů, ve znění pozdějších předpisů",
-    "poziceli": "PRO",
-    "vysvetleni": "Snížení daní z té části základu daně, která byla použita jako dar Českému olympijskému výboru. Každé snížení daní je pozitivní, a i když v tomto případě jde o velmi úzce definovaný prostor pro snížení daní, hodnotíme jej kladně."
-  },
-  {
-    "slug": "elektronicke-recepty",
-    "nazev": "Léčiva",
-    "pspurl": "https://www.senat.cz/xqw/xervlet/pssenat/hlasy?G=17135&O=11",
-    "schuze": "11. schůze, 24. hlasování, 06.12.2017 191/11 - Návrh senátního návrhu zákona senátora Vladimíra Plačka a dalších senátorů, kterým se mění zákon č. 70/2013 Sb., kterým se mění zákon č. 378/2007 Sb., o léčivech a o změnách některých souvisejících zákonů (zá",
+    "slug": "limity-na-emise",
+    "_cokwr": "Limity na emise",
+    "nazev": "Limitation of emissions of certain pollutants into the air ***I",
+    "cislo": "A8-0160/2015 - Andrzej Grzyb - Résolution législative",
+    "datum": "7. října 2015",
+    "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2013/0442(COD)",
     "poziceli": "PROTI",
-    "vysvetleni": "Zdržování elektornizace zdravotnictví. Argumentace proti elektronickým receptům připomíná ochranu nedospělého průmyslu v zahraničním obchodu: \"ze strany starších lékařek a lékařů zaznívají stále silnější obavy z toho, že nejsou a nebudou chtít být na tuto změnu připraveni, přičemž daný stav hodlají vyřešit ukončením své lékařské praxe\". Odkládá povinnost předepisovat recepty elektronicky o dva roky, tj. do 1.1.2020. Zamítnuto v PS."
+    "vysvetleni": ""
   },
   {
-    "slug": "danovy-rad",
-    "nazev": "Daňový řád (zamítnutí)",
-    "pspurl": "https://www.senat.cz/xqw/xervlet/pssenat/hlasy?G=17366&O=11",
-    "schuze": "258/11 - Návrh zákona, kterým se mění zákon č. 280/2009 Sb., daňový řád, ve znění pozdějších předpisů, a další související zákony",
+    "slug": "cestovani",
+    "_cokwr": "Cestování (zamítací návrh)",
+    "nazev": "Package travel and linked travel arrangements ***II",
+    "cislo": "A8-0297/2015 - Birgit Collin-Langen - Am 1",
+    "datum": "27. října 2015",
+    "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2013/0246(COD)",
     "poziceli": "PRO",
-    "vysvetleni": "Nařizuje bankám, platebním institucím, poskytovatelům platebních služeb malého rozsahu apod. na vyžádání správce daně poskytnout údaje o číslech účtů, jejich majitelích, stavech peněžních zůstatků, jejich pohybech a osobách, které peníze na účet vložily, a také o úvěrech. Tím prohlubuje zasahování státní moci do soukromí, kdy si správce daně může kdykoliv zjistit likviditu kohokoliv. Senát odhlasoval zamítnutí zákona, Sněmovna jej přehlasovala."
+    "vysvetleni": ""
   },
   {
-    "slug": "stavebni-rizeni",
-    "nazev": "Stavební řízení",
-    "pspurl": "https://www.senat.cz/xqw/xervlet/pssenat/hlasy?G=17455&O=11",
-    "schuze": "16. schůze, 16. hlasování, 18.07.2018 304/11 - Návrh zákona, kterým se mění zákon č. 416/2009 Sb., o urychlení výstavby dopravní, vodní a energetické infrastruktury a infrastruktury elektronických komunikací, ve znění pozdějších předpisů, a další související zákony",
+    "slug": "jednotny-evropsky-trh-pro-elektronickou-komunikaci",
+    "_cokwr": "Jednotný evropský trh pro elektronickou komunikaci (zamítací návrh)",
+    "nazev": "European single market for electronic communications ***II",
+    "cislo": "A8-0300/2015 - Pilar del Castillo Vera - Am 1",
+    "datum": "27. října 2015",
+    "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2013/0309(COD)",
     "poziceli": "PRO",
-    "vysvetleni": "Zjednoduššuje stavební řízení tím, že nevynucuje doručení oznámení o zahájení stavebního řízení všem účastníků zvlášť, pouze žadateli, obci a dotčeným orgánům, přičemž ostatním účastníkům se doručí veřejnou vyhláškou."
+    "vysvetleni": ""
+  },
+  {
+    "slug": "povinne-vymenovani-danovych-informaci",
+    "_cokwr": "Povinné vyměňování daňových informací",
+    "nazev": "Mandatory automatic exchange of information in the field of taxation *",
+    "cislo": "A8-0306/2015 - Markus Ferber - Résolution législative",
+    "datum": "27. října 2015",
+    "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2015/0068(CNS)",
+    "poziceli": "PROTI",
+    "vysvetleni": ""
+  },
+  {
+    "slug": "geneticky-modifikovana-jidla",
+    "_cokwr": "Geneticky modifikovaná jídla (odmítnutí)",
+    "nazev": "Use of genetically modified food and feed ***I",
+    "cislo": "A8-0305/2015 - Giovanni La Via - Résolution législative",
+    "datum": "28. října 2015",
+    "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2015/0093(COD)",
+    "poziceli": "PROTI",
+    "vysvetleni": "Parlament odmítl návrh Komise na rozšíření pravomocí členských států."
+  },
+  {
+    "slug": "nova-jidla",
+    "_cokwr": "Nová jídla",
+    "nazev": "Novel foods ***I",
+    "cislo": "A8-0046/2014 - James Nicholson - Résolution législative",
+    "datum": "28. října",
+    "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2013/0435(COD)",
+    "poziceli": "PRO",
+    "vysvetleni": "Návrh zjednodušuje schvalování tzv. nových potravin."
+  },
+  {
+    "slug": "cepol",
+    "_cokwr": "CEPOL",
+    "nazev": "EU Agency for Law Enforcement Training (CEPOL) ***I",
+    "cislo": "A8-0048/2015 - Kinga Gál - Résolution législative",
+    "datum": "29. října",
+    "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2014/0217(COD)",
+    "poziceli": "PROTI",
+    "vysvetleni": ""
+  },
+  {
+    "slug": "vymena-bankovnich-informaci-s-lichtenstejnskem",
+    "_cokwr": "Výměna bankovních informací s Lichtenštejnskem",
+    "nazev": "EU-Liechtenstein agreement on the automatic exchange of financial account information *",
+    "cislo": "A8-0334/2015 - Sander Loones - Vote unique",
+    "datum": "2. prosince 2015",
+    "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2015/0175(NLE)",
+    "poziceli": "PROTI",
+    "vysvetleni": ""
+  },
+  {
+    "slug": "bezvizovy-rezim-s-uae",
+    "_cokwr": "Bezvízový režim s UAE",
+    "nazev": "EU-United Arab Emirates agreement on the short-stay visa waiver ***",
+    "cislo": "A8-0324/2015 - Mariya Gabriel - Vote unique",
+    "datum": "15. prosince 2015",
+    "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2015/0062(NLE)",
+    "poziceli": "PRO",
+    "vysvetleni": ""
+  },
+  {
+    "slug": "geneticky-modifikovana-kukurice",
+    "_cokwr": "Námitka – genetický modifikovaná kukuřice",
+    "nazev": "Objection pursuant to Rule 106: authorisation of genetically modified maize NK603xT25",
+    "cislo": "B8-1365/2015 - Résolution",
+    "datum": "16. prosince 2015",
+    "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2015/3006(RSP)",
+    "poziceli": "PROTI",
+    "vysvetleni": ""
+  },
+  {
+    "slug": "eu-vietnam",
+    "_cokwr": "EU-Vietnam",
+    "nazev": "EU-Vietnam Framework Agreement on Comprehensive Partnership and Cooperation (consent) ***",
+    "cislo": "A8-0339/2015 - Barbara Lochbihler - Vote unique",
+    "datum": "17. prosince 2015",
+    "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2013/0440(NLE)",
+    "poziceli": "PRO",
+    "vysvetleni": "Návrh posiluje obchodní vztahy mezi EU a Vietnamem."
+  },
+  {
+    "slug": "lanovky",
+    "_cokwr": "Lanovky",
+    "nazev": "Cableway installations ***I",
+    "cislo": "A8-0063/2015 - Antonio López-Istúriz White - Résolution législative",
+    "datum": "20. ledna 2016",
+    "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2014/0107(COD)",
+    "poziceli": "PROTI",
+    "vysvetleni": ""
+  },
+  {
+    "slug": "nedeklarovana-prace",
+    "_cokwr": "Nedeklarovaná práce",
+    "nazev": "Establishment of a European Platform to enhance cooperation in the prevention and deterrence of undeclared work ***I",
+    "cislo": "A8-0172/2015 - Georgi Pirinski - Résolution législative",
+    "datum": "2. února 2016",
+    "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2014/0124(COD)",
+    "poziceli": "PROTI",
+    "vysvetleni": ""
+  },
+  {
+    "slug": "soja",
+    "_cokwr": "Námitka – sója",
+    "nazev": "Objection pursuant to Rule 106: Authorisation of genetically modified soybean FG72",
+    "cislo": "B8-0133/2016 - Résolution",
+    "datum": "3. února 2016",
+    "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2015/2547(RPS)",
+    "poziceli": "PROTI",
+    "vysvetleni": ""
+  },
+  {
+    "slug": "jablka-do-skol",
+    "_cokwr": "Jablka do škol",
+    "nazev": "Aid scheme for the supply of fruit and vegetables, bananas and milk in the educational establishments ***I",
+    "cislo": "A8-0006/2016 - Marc Tarabella - Résolution législative",
+    "datum": "8. března 2016",
+    "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2014/0014(COD)",
+    "poziceli": "PROTI",
+    "vysvetleni": ""
+  },
+  {
+    "slug": "minimalni-dph",
+    "_cokwr": "Minimální DPH",
+    "nazev": "Minimum standard rate of VAT *",
+    "cislo": "A8-0063/2016 - Peter Simon - Vote unique",
+    "datum": "12. dubna 2016",
+    "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2015/0296(CNS)",
+    "poziceli": "PROTI",
+    "vysvetleni": ""
+  },
+  {
+    "slug": "ochrana-pred-dotovanym-dovozem",
+    "_cokwr": "Ochrana před dotovaným dovozem",
+    "nazev": "Protection against subsidised imports from countries not members of the EU ***I",
+    "cislo": "A8-0257/2015 - Heidi Hautala - Vote unique",
+    "datum": "10. května 2016",
+    "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2014/0305(COD)",
+    "poziceli": "PROTI",
+    "vysvetleni": ""
+  },
+  {
+    "slug": "ochrana-pred-dumpingem",
+    "_cokwr": "Ochrana před dumpingem",
+    "nazev": "Protection against dumped imports from countries not members of the EU ***I",
+    "cislo": "A8-0256/2015 - Heidi Hautala - Vote unique",
+    "datum": "10. května 2016",
+    "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2014/0309(COD)",
+    "poziceli": "PROTI",
+    "vysvetleni": ""
+  },
+  {
+    "slug": "vstup-a-pobyt-prislucniku-cizich-zemi",
+    "_cokwr": "Vstup a pobyt příslučníků cizích zemí (zamítací návrh)",
+    "nazev": "Entry and residence of third-country nationals for the purposes of research, studies, training, volunteering, pupil exchange and au pairing ***II",
+    "cislo": "A8-0166/2016 - Cecilia Wikström - Am 1=2=",
+    "datum": "11. května 2016",
+    "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2013/0081(COD)",
+    "poziceli": "PROTI",
+    "vysvetleni": "Návrh zjednodušuje obyvatelům třetích zemí vstup na evropský trh. Hlasovalo se o zamítacím návrhu."
+  },
+  {
+    "slug": "boj-s-nelegalnimi-cigaretami",
+    "_cokwr": "Boj s nelegálními cigaretami",
+    "nazev": "Eliminating illicit trade in tobacco products: protocol to the WHO Framework Convention ***",
+    "cislo": "A8-0154/2016 - Adam Szejnfeld - approbation",
+    "datum": "",
+    "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2015/0101(NLE)",
+    "poziceli": "PROTI",
+    "vysvetleni": "Návrh uvaluje nové povinnosti na výrobce a prodejce cigaret,které zatěžují legální výrobce a nepomáhají v boji proti černému trhu."
+  },
+  {
+    "slug": "akceptace-dokumentu",
+    "_cokwr": "Akceptace dokumentů (zamítací návrh)",
+    "nazev": "Promoting free movement by simplifying the acceptance of certain public documents ***II",
+    "cislo": "A8-0156/2016 - Mady Delvaux - Am 1",
+    "datum": "",
+    "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2013/0119(COD)",
+    "poziceli": "PROTI",
+    "vysvetleni": ""
+  },
+  {
+    "slug": "energeticka-efektivnost",
+    "_cokwr": "Energetická efektivnost – štítky",
+    "nazev": "Energy efficiency labelling ***I",
+    "cislo": "A8-0213/2016 - Dario Tamburrano - Am 100",
+    "datum": "13. června 2017",
+    "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2015/0149(COD)",
+    "poziceli": "PROTI",
+    "vysvetleni": ""
+  },
+  {
+    "slug": "zalozeni-evropske-agentury-na-bezpecnost-na-morich",
+    "_cokwr": "Založení evropské agentury na bezpečnost na mořích",
+    "nazev": "European Maritime Safety Agency ***I",
+    "cislo": "A8-0215/2016 - Michael Cramer - Résolution législative",
+    "datum": "6. července 2016",
+    "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2015/0313(COD)",
+    "poziceli": "PROTI",
+    "vysvetleni": ""
+  },
+  {
+    "slug": "emise-atmosferickych-polutantu",
+    "_cokwr": "Emise atmosferických polutantů",
+    "nazev": "Emissions of certain atmospheric pollutants ***I",
+    "cislo": "A8-0249/2015 - Julie Girling - Résolution législative",
+    "datum": "23. listopadu 2016",
+    "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2013/0443(COD)",
+    "poziceli": "PROTI",
+    "vysvetleni": ""
+  },
+  {
+    "slug": "jednotna-zeleznicni-oblast",
+    "_cokwr": "Jednotná železniční oblast (zamítací návrh)",
+    "nazev": "Single European railway area ***II",
+    "cislo": "A8-0371/2016 - David-Maria Sassoli - Am 1=2=3=4",
+    "datum": "14. prosince 2016",
+    "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2013/0029(COD)",
+    "poziceli": "PRO",
+    "vysvetleni": "Návrh Komise byl v legislativním procesu zmírněn, přesto nutí členské státy k nediskriminačnímu provozování železnic a umožnění konkurence. Také volá po větších dotacích, ale celkově jej vnímáme jako pozitivní."
+  },
+  {
+    "slug": "ceta",
+    "_cokwr": "CETA",
+    "nazev": "EU-Canada Comprehensive Economic and Trade Agreement ***",
+    "cislo": "A8-0009/2017 - Artis Pabriks - approbation",
+    "datum": "15. února 2017",
+    "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2016/0205(NLE)",
+    "poziceli": "PRO",
+    "vysvetleni": ""
+  },
+  {
+    "slug": "redukce-emisi",
+    "_cokwr": "Redukce emisí",
+    "nazev": "Cost-effective emission reductions and low-carbon investments ***I",
+    "cislo": "A8-0003/2017 - Julie Girling - Am 166",
+    "datum": "6. února 2018",
+    "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2015/0148(COD)",
+    "poziceli": "PROTI",
+    "vysvetleni": ""
+  },
+  {
+    "slug": "odpad",
+    "_cokwr": "Odpad I",
+    "nazev": "Waste ***I",
+    "cislo": "A8-0034/2017 - Simona Bonafè - am 253",
+    "datum": "18. dubna 2018",
+    "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2015/0275(COD)",
+    "poziceli": "PROTI",
+    "vysvetleni": ""
+  },
+  {
+    "slug": "odpad-2",
+    "_cokwr": "Odpad II",
+    "nazev": "Landfill of waste ***I",
+    "cislo": "A8-0031/2017 - Simona Bonafè - am 53",
+    "datum": "18. dubna 2018",
+    "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2015/0274(COD)",
+    "poziceli": "PROTI",
+    "vysvetleni": ""
+  },
+  {
+    "slug": "odpad-3",
+    "_cokwr": "Odpad III",
+    "nazev": "Packaging and packaging waste ***I",
+    "cislo": "A8-0029/2017 - Simona Bonafè - am 90",
+    "datum": "18. dubna 2018",
+    "epurl": "",
+    "poziceli": "PROTI",
+    "vysvetleni": ""
+  },
+  {
+    "slug": "vicelety-financni-ramec",
+    "_cokwr": "Víceletý finanční rámec",
+    "nazev": "Multiannual financial framework for 2014-2020 ***",
+    "cislo": "A8-0110/2017 - Jan Olbrycht et Isabelle Thomas - Approbation",
+    "datum": "5. dubna 2017",
+    "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2016/0283(APP)",
+    "poziceli": "PROTI",
+    "vysvetleni": ""
+  },
+  {
+    "slug": "financni-dohoda-s-ehp",
+    "_cokwr": "Finanční dohoda s EHP",
+    "nazev": "Agreement between the EU, Iceland, Liechtenstein and Norway on an EEA Financial Mechanism 2014-2021 ***",
+    "cislo": "A8-0072/2017 - David Borrelli - Approbation",
+    "datum": "18. května 2017",
+    "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2015/0276(COD)",
+    "poziceli": "PROTI",
+    "vysvetleni": ""
+  },
+  {
+    "slug": "preshranicni-prenosnost-online-obsahu",
+    "_cokwr": "Přeshraniční přenosnost online obsahu",
+    "nazev": "Cross-border portability of online content services in the internal market ***I",
+    "cislo": "A8-0378/2016 - Jean-Marie Cavada - Am 54",
+    "datum": "18. května 2017",
+    "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2015/0284(COD)",
+    "poziceli": "PRO",
+    "vysvetleni": "Návrh zavádí povinnost služeb s placeným obsahem poskytnout obsah, i pokud je jejich předplatitel dočasně mimo území státu, na kterém služba funguje, a omezuje tak geoblocking."
+  },
+  {
+    "slug": "boj-s-poskozovanim-financnich-zajmu-eu",
+    "_cokwr": "Boj s poškozováním finančních zájmů EU (zamítací návrh)",
+    "nazev": "Fight against fraud to the Union's financial interests by means of criminal law ***II",
+    "cislo": "A8-0230/2017 - Ingeborg Gräßle et Juan Fernando López Aguilar - Am 1",
+    "datum": "5. července 2017",
+    "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2012/0193(COD)",
+    "poziceli": "PRO",
+    "vysvetleni": ""
+  },
+  {
+    "slug": "esfd",
+    "_cokwr": "ESFD",
+    "nazev": "European Fund for Sustainable Development (EFSD) and establishing the EFSD Guarantee and the EFSD Guarantee Fund ***I",
+    "cislo": "A8-0170/2017 - Eduard Kukan, Doru-Claudian Frunzulică et Eider Gardiazabal Rubial - Am 106",
+    "datum": "6. července 2017",
+    "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2016/0281(COD)",
+    "poziceli": "PROTI",
+    "vysvetleni": ""
+  },
+  {
+    "slug": "europrokurator",
+    "_cokwr": "Europrokurátor",
+    "nazev": "Enhanced cooperation: European Public Prosecutor's Office ***",
+    "cislo": "A8-0290/2017 - Barbara Matera - Approbation",
+    "datum": "5. října 2017",
+    "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2013/0255(APP)",
+    "poziceli": "PROTI",
+    "vysvetleni": ""
+  },
+  {
+    "slug": "fosfaty-v-kebabech",
+    "_cokwr": "Fosfáty v kebabech",
+    "nazev": "Objection to an implementing act: use of phosphoric acid – phosphates – di – tri – and polyphosphates (E 338-452) in frozen vertical meat spits",
+    "cislo": "B8-0666/2017 - Résolution",
+    "datum": "13. prosince 2017",
+    "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2017/2920(RPS)",
+    "poziceli": "PROTI",
+    "vysvetleni": ""
+  },
+  {
+    "slug": "pojmenuj",
+    "nazev": "Energy efficiency ***I",
+    "cislo": "A8-0391/2017 - Miroslav Poche - Am 120",
+    "datum": "13. listopadu 2018",
+    "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2016/0376(COD)",
+    "poziceli": "PROTI",
+    "vysvetleni": ""
+  },
+  {
+    "slug": "program-kreativni-evropa",
+    "_cokwr": "Program Kreativní Evropa",
+    "nazev": "Creative Europe Programme (2014 to 2020) ***I",
+    "cislo": "A8-0369/2017 - Silvia Costa - Am 12",
+    "datum": "15. března 2018",
+    "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2017/0163(COD)",
+    "poziceli": "PROTI",
+    "vysvetleni": ""
+  },
+  {
+    "slug": "spolecny-zaklad-pro-dppo",
+    "_cokwr": "Společný základ pro DPPO",
+    "nazev": "Common Consolidated Corporate Tax Base *",
+    "cislo": "A8-0051/2018 - Alain Lamassoure - Proposition de la Commission",
+    "datum": "15. března 2018",
+    "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2016/0336(CNS)",
+    "poziceli": "PROTI",
+    "vysvetleni": ""
+  },
+  {
+    "slug": "evropske-politicke-nadace",
+    "_cokwr": "Evropské politické nadace",
+    "nazev": "Statute and funding of European political parties and European political foundations ***I",
+    "cislo": "A8-0373/2017 - Mercedes Bresso et Rainer Wieland - am 17",
+    "datum": "17. dubna 2018",
+    "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2017/0219(COD)",
+    "poziceli": "PROTI",
+    "vysvetleni": ""
+  },
+  {
+    "slug": "snizeni-emisi-podle-parizske-dohody",
+    "_cokwr": "Snížení emisí podle Pařížské dohody",
+    "nazev": "Binding annual greenhouse gas emission reductions to meet commitments under the Paris Agreement ***I",
+    "cislo": "A8-0208/2017 - Gerben-Jan Gerbrandy - am 67",
+    "datum": "17. dubna 2018",
+    "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2016/0231(COD)",
+    "poziceli": "PROTI",
+    "vysvetleni": ""
+  },
+  {
+    "slug": "energeticky-vykon-budov",
+    "_cokwr": "Energetický výkon budov",
+    "nazev": "Energy performance of buildings ***I",
+    "cislo": "A8-0314/2017 - Bendt Bendtsen - am 88",
+    "datum": "17. dubna 2018",
+    "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2016/0381(COD)",
+    "poziceli": "PROTI",
+    "vysvetleni": ""
+  },
+  {
+    "slug": "smernice-o-vyslanych-pracovnicich",
+    "_cokwr": "Směrnice o vyslaných pracovnících",
+    "nazev": "Posting of workers in the framework of the provision of services ***I",
+    "cislo": "A8-0319/2017 - Elisabeth Morin-Chartier et Agnes Jongerius - Am 39",
+    "datum": "29. května 2018",
+    "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2016/0070(COD)",
+    "poziceli": "PROTI",
+    "vysvetleni": ""
+  },
+  {
+    "slug": "namitka--kukurice",
+    "_cokwr": "Námitka: Kukuřice",
+    "nazev": "Objection pursuant to Rule 106: genetically modified maize GA21 (MON-ØØØ21-9) (D056125)",
+    "cislo": "B8-0232/2018 - Résolution",
+    "datum": "30. května 2018",
+    "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2018/2698(RSP)",
+    "poziceli": "PROTI",
+    "vysvetleni": ""
+  },
+  {
+    "slug": "omezeni-doby-provozu-pro-kamiony",
+    "_cokwr": "Omezení doby provozu pro kamiony",
+    "nazev": "Daily and weekly driving times, minimum breaks and rest periods and positioning by means of tachographs ***I",
+    "cislo": "A8-0205/2018 - Wim van de Camp - Proposition de la Commission",
+    "datum": "4. dubna 2019",
+    "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2017/0122(COD)",
+    "poziceli": "PROTI",
+    "vysvetleni": ""
+  },
+  {
+    "slug": "etias",
+    "_cokwr": "ETIAS",
+    "nazev": "European Travel Information and Authorisation System (ETIAS) ***I",
+    "cislo": "A8-0322/2017 - Kinga Gál - Am 363",
+    "datum": "5. července 2018",
+    "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2016/0357A(COD)",
+    "poziceli": "PRO",
+    "vysvetleni": ""
+  },
+  {
+    "slug": "nestandardni-lahve-pro-socu",
+    "_cokwr": "Nestandardní láhve pro šóčú",
+    "nazev": "Nominal quantities for placing on the Union market of single distilled shochu ***I",
+    "cislo": "A8-0255/2018 - Adina-Ioana Vălean - Vote unique",
+    "datum": "12. září 2018",
+    "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2018/0097(COD)",
+    "poziceli": "PRO",
+    "vysvetleni": ""
+  },
+  {
+    "slug": "boj-s-pranim-spinavych-penez-pomoci-trestniho-prava",
+    "_cokwr": "Boj s praním špinavých peněz pomocí trestního práva",
+    "nazev": "Countering money laundering by criminal law ***I",
+    "cislo": "A8-0405/2017 - Ignazio Corrao - Am 59",
+    "datum": "12. září 2018",
+    "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2016/0414(COD)",
+    "poziceli": "PROTI",
+    "vysvetleni": ""
+  },
+  {
+    "slug": "povinny-podil-evropskych-del-na-netflixu",
+    "_cokwr": "Povinný podíl evropských děl na Netflixu",
+    "nazev": "Provision of audiovisual media services ***I",
+    "cislo": "A8-0192/2017 - Sabine Verheyen et Petra Kammerevert - Am 83",
+    "datum": "2. října 2018",
+    "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2016/0151(COD)",
+    "poziceli": "PROTI",
+    "vysvetleni": ""
+  },
+  {
+    "slug": "dovoz-kulturnich-statku",
+    "_cokwr": "Dovoz kulturních statků",
+    "nazev": "Import of cultural goods ***I",
+    "cislo": "A8-0308/2018 - Alessia Maria Mosca et Daniel Dalton - Am 97",
+    "datum": "12. března 2019",
+    "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2017/0158(COD)",
+    "poziceli": "PROTI",
+    "vysvetleni": "Návrh centralizuje předpisy na dovoz kulturních statků. Dosavadní úprava jednotlivých členských států byla dostatečná."
+  },
+  {
+    "slug": "prava-a-povinnosti-pasazeru-pri-ceste-vlakem",
+    "_cokwr": "Práva a povinnosti pasažérů při cestě vlakem",
+    "nazev": "Rail passengers' rights and obligations ***I",
+    "cislo": "A8-0340/2018 - Bogusław Liberadzki - Proposition de la Commission",
+    "datum": "15. listopadu 2018",
+    "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2017/0237(COD)",
+    "poziceli": "PROTI",
+    "vysvetleni": "Návrh centralizuje práva a povinnosti cestujících na železnici. Dosavadní právní úpravy v členských státech byly dostatečné, často šly i nad rámec toho, co zavádí tento návrh."
+  },
+  {
+    "slug": "horizont-evropa",
+    "_cokwr": "Horizont Evropa",
+    "nazev": "Establishing Horizon Europe – laying down its rules for participation and dissemination ***I",
+    "cislo": "A8-0401/2018 - Dan Nica - Proposition de la Commission",
+    "datum": "17. dubna 2019",
+    "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2018/0224(COD)",
+    "poziceli": "PROTI",
+    "vysvetleni": ""
+  },
+  {
+    "slug": "obchodni-dohoda-eu-japonsko",
+    "_cokwr": "Obchodní dohoda EU-Japonsko",
+    "nazev": "EU-Japan Economic Partnership Agreement ***",
+    "cislo": "A8-0366/2018 - Pedro Silva Pereira - Approbation",
+    "datum": "12. prosince 2018",
+    "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2018/0091(NLE)",
+    "poziceli": "PRO",
+    "vysvetleni": ""
+  },
+  {
+    "slug": "vesmirny-program-eu",
+    "_cokwr": "Vesmírný program EU",
+    "nazev": "Establishing the space programme of the Union and the European Union Agency for the Space Programme ***I",
+    "cislo": "A8-0405/2018 - Massimiliano Salini - Proposition de la Commission",
+    "datum": "17. dubna 2019",
+    "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2018/0236(COD)",
+    "poziceli": "PROTI",
+    "vysvetleni": ""
+  },
+  {
+    "slug": "digitalni-dan",
+    "_cokwr": "Digitální daň",
+    "nazev": "Common system of a digital services tax on revenues resulting from the provision of certain digital services *",
+    "cislo": "A8-0428/2018 - Paul Tang - Proposition de la Commission",
+    "datum": "13. prosince 2018",
+    "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2018/0073(CNS)",
+    "poziceli": "PROTI",
+    "vysvetleni": ""
+  },
+  {
+    "slug": "efg",
+    "_cokwr": "EFG",
+    "nazev": "European Globalisation Adjustment Fund (EGF) ***I",
+    "cislo": "A8-0445/2018 - Maria Arena - Proposition de la Commission",
+    "datum": "16. ledna 2019",
+    "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2018/0202(COD)",
+    "poziceli": "PROTI",
+    "vysvetleni": ""
+  },
+  {
+    "slug": "obchodni-dohoda-eu-singapur",
+    "_cokwr": "Obchodní dohoda EU-Singapur",
+    "nazev": "EU-Singapore Free Trade Agreement ***",
+    "cislo": "A8-0053/2019 - David Martin - Vote: procédure d'approbation",
+    "datum": "13. února 2019",
+    "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2018/0093(NLE)",
+    "poziceli": "PRO",
+    "vysvetleni": ""
+  },
+  {
+    "slug": "dopravni-spolecenstvi",
+    "_cokwr": "Dopravní společenství",
+    "nazev": "Treaty establishing the Transport Community ***",
+    "cislo": "A8-0022/2019 - Karima Delli - Vote: procédure d'approbation",
+    "datum": "13. února 2019",
+    "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2018/0282(NLE)",
+    "poziceli": "PROTI",
+    "vysvetleni": "Návrh integruje dopravní cesty na Západním Balkáně do unijního dopravního trhu a harmonizuje právo zemí ze Západního Balkánu s komunitárním acquis v oblasti dopravy."
+  },
+  {
+    "slug": "pojmenuj-2",
+    "nazev": "Mutual recognition of goods lawfully marketed in another Member State ***I",
+    "cislo": "A8-0274/2018 - Ivan Štefanec - Am 82",
+    "datum": "14. února 2019",
+    "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2017/0354(COD)",
+    "poziceli": "PRO",
+    "vysvetleni": "Návrh posiluje princip vzájemného uznávání standardů mezi členskými státy."
+  },
+  {
+    "slug": "neferove-obchodni-praktiky",
+    "_cokwr": "Neférové obchodní praktiky",
+    "nazev": "Unfair trading practices in business-to-business relationships in the food supply chain ***I",
+    "cislo": "A8-0309/2018 - Paolo De Castro - Am 142",
+    "datum": "12. března 2019",
+    "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2018/0082(COD)",
+    "poziceli": "PROTI",
+    "vysvetleni": ""
+  },
+  {
+    "slug": "copyright",
+    "_cokwr": "Copyright",
+    "nazev": "Copyright in the Digital Single Market ***I",
+    "cislo": "A8-0245/2018 - Axel Voss - Am 271",
+    "datum": "26. března 2019",
+    "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2016/0280(COD)",
+    "poziceli": "PROTI",
+    "vysvetleni": ""
+  },
+  {
+    "slug": "emise-lehkych-vozidel",
+    "_cokwr": "Emise lehkých vozidel",
+    "nazev": "Emission performance standards for new passenger cars and for new light commercial vehicles ***I",
+    "cislo": "A8-0287/2018 - Miriam Dalli - Am 100",
+    "datum": "27. března 2019",
+    "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2017/0293(COD)",
+    "poziceli": "PROTI",
+    "vysvetleni": ""
+  },
+  {
+    "slug": "zakaz-brcek",
+    "_cokwr": "Zákaz brček",
+    "nazev": "Reduction of the impact of certain plastic products on the environment ***I",
+    "cislo": "A8-0317/2018 - Frédérique Ries - Am 159",
+    "datum": "27. března 2019",
+    "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2018/0172(COD)",
+    "poziceli": "PROTI",
+    "vysvetleni": ""
+  },
+  {
+    "slug": "evropsky-organ-pro-pracovni-zalezitosti",
+    "_cokwr": "Evropský orgán pro pracovní záležitosti",
+    "nazev": "European Labour Authority ***I",
+    "cislo": "A8-0391/2018 - Jeroen Lenaers - Am 104",
+    "datum": "16. dubna 2019",
+    "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2018/0064(COD)",
+    "poziceli": "PROTI",
+    "vysvetleni": ""
+  },
+  {
+    "slug": "fiscalis",
+    "_cokwr": "Fiscalis",
+    "nazev": "Fiscalis programme for cooperation in the field of taxation ***I",
+    "cislo": "A8-0421/2018 - Sven Giegold - Proposition de la Commission",
+    "datum": "17. dubna 2019",
+    "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2018/0233(COD)",
+    "poziceli": "PROTI",
+    "vysvetleni": ""
+  },
+  {
+    "slug": "program-spravedlnost",
+    "_cokwr": "Program Spravedlnost",
+    "nazev": "Justice programme ***I",
+    "cislo": "A8-0068/2019 - Josef Weidenholzer et Heidi Hautala - Proposition de la Commission",
+    "datum": "17. dubna 2019",
+    "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2018/0208(COD)",
+    "poziceli": "PROTI",
+    "vysvetleni": ""
+  },
+  {
+    "slug": "program-prava-a-hodnoty",
+    "_cokwr": "Program Práva a hodnoty",
+    "nazev": "Rights and Values programme ***I",
+    "cislo": "A8-0468/2018 - Bodil Valero - Proposition de la Commission",
+    "datum": "17. dubna 2019",
+    "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2018/0207(COD)",
+    "poziceli": "PROTI",
+    "vysvetleni": ""
+  },
+  {
+    "slug": "life",
+    "_cokwr": "LIFE",
+    "nazev": "Programme for the Environment and Climate Action (LIFE) ***I",
+    "cislo": "A8-0397/2018 - Gerben-Jan Gerbrandy - Proposition de la Commission",
+    "datum": "17. dubna 2019",
+    "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2018/0209(COD)",
+    "poziceli": "PROTI",
+    "vysvetleni": ""
+  },
+  {
+    "slug": "emise-kamiony",
+    "_cokwr": "Emise kamióny",
+    "nazev": "CO2 emission performance standards for new heavy-duty vehicles ***I",
+    "cislo": "A8-0354/2018 - Bas Eickhout - Am 90",
+    "datum": "18. dubna 2019",
+    "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2018/0143(COD)",
+    "poziceli": "PROTI",
+    "vysvetleni": ""
+  },
+  {
+    "slug": "zakaz-glyfosatu",
+    "_cokwr": "Zákaz glyfosátů",
+    "nazev": "Obnovení schválení účinné látky glyfosát (námitka podle článku 106 jednacího řádu)",
+    "cislo": "B8-0567/2017 - Résolution",
+    "datum": "24. října 2017",
+    "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2017/2904(RSP)",
+    "poziceli": "PROTI",
+    "vysvetleni": "Glyfosáty jsou léty užívání prověřen, bezpečný desikant."
   }
 ]

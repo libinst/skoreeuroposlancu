@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
-  <title>Skóre senátorů</title>
+  <title>Skóre europoslanců</title>
 
   <meta name="author" content="Liberalni institut" />
 
@@ -16,7 +16,7 @@
 
   
 
-  <link rel="alternate" type="application/rss+xml" title="Skóre senátorů - " href="/feed.xml" />
+  <link rel="alternate" type="application/rss+xml" title="Skóre europoslanců - " href="/feed.xml" />
 
   
 
@@ -56,7 +56,7 @@
   
 
   
-  <meta property="og:title" content="Skóre senátorů" />
+  <meta property="og:title" content="Skóre europoslanců" />
   
 
    
@@ -65,12 +65,12 @@
   <meta property="og:type" content="website" />
 
   
-  <meta property="og:url" content="http://www.skoresenatoru.cz/404" />
-  <link rel="canonical" href="http://www.skoresenatoru.cz/404" />
+  <meta property="og:url" content="http://localhost:4000/404" />
+  <link rel="canonical" href="http://localhost:4000/404" />
   
 
   
-  <meta property="og:image" content="http://www.skoresenatoru.cz/img/libinst.jpg" />
+  <meta property="og:image" content="http://localhost:4000/img/libinst.jpg" />
   
 
 
@@ -80,13 +80,13 @@
   <meta name="twitter:creator" content="@libinstcz" />
 
   
-  <meta name="twitter:title" content="Skóre senátorů" />
+  <meta name="twitter:title" content="Skóre europoslanců" />
   
 
   
 
   
-  <meta name="twitter:image" content="http://www.skoresenatoru.cz/img/libinst.jpg" />
+  <meta name="twitter:image" content="http://localhost:4000/img/libinst.jpg" />
   
 
   <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
@@ -108,7 +108,7 @@
         <span class="icon-bar"></span>
       </button>
       
-        <a class="navbar-brand" href="http://www.skoresenatoru.cz">Skóre senátorů</a>
+        <a class="navbar-brand" href="http://localhost:4000">Skóre europoslanců</a>
       
     </div>
 
@@ -116,8 +116,8 @@
     <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
     <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
     <script>
-    jQuery.getJSON('/senatori.json', function(data) {
-      $("#senator-search").autocomplete({
+    jQuery.getJSON('/europoslanci.json', function(data) {
+      $("#europoslanec-search").autocomplete({
         source: data,
         minLength: 2,
         select: function(event, ui){
@@ -134,7 +134,7 @@
         <form class="navbar-form" role="search" action="https://cse.google.com/cse">
           <input type="hidden" name="cx" value="006352263766031622043:ygat1wey7ys">
           <div class="input-group">
-            <input id="senator-search" type="text" class="form-control" placeholder="Vyhledat senátora" name="q">
+            <input id="europoslanec-search" type="text" class="form-control" placeholder="Vyhledat europoslance" name="q">
           </div>
         </form>
       </div>
@@ -218,7 +218,7 @@
 	
 	<div class="avatar-container">
 	  <div class="avatar-img-border">
-	    <a href="http://www.skoresenatoru.cz ">
+	    <a href="http://localhost:4000 ">
 	      <img class="avatar-img" src="/img/libinst.jpg" />
 		</a>
 	  </div>
@@ -312,11 +312,11 @@
         <p class="copyright text-muted">
 		  Liberalni institut
 		  &nbsp;&bull;&nbsp;
-		  2018
+		  2019
 
 		  
 		  &nbsp;&bull;&nbsp;
-		  <a href="http://www.skoresenatoru.cz">skoresenatoru.cz</a>
+		  <a href="http://localhost:4000">skoreeuroposlancu.cz</a>
 		  
 	    </p>
 	        <!-- Please don't remove this, keep my open source work credited :) -->

@@ -17,14 +17,14 @@ layout: default
 <table class="table">
   <thead>
     <tr>
-      <th>Senátor</th>
-      <th>Strana</th>
+      <th>Europoslanec</th>
+      <th>Skupina</th>
       <th>Hlasoval</th>
     </tr>
   </thead>
   <tbody>
-  {% for senator in site.data.senatori %}
-    <tr><td><a class="page-link" href="{{ senator.jmeno | datapage_url: '/senatori' }}">{{ senator.jmeno }}</a></td><td>{{ senator.strana }}</td><td>{{ senator[page.slug] }}</td></tr>
+  {% for europoslanec in site.data.europoslanci %}
+    <tr><td><a class="page-link" href="{{ europoslanec.jmeno | datapage_url: '/europoslanci' }}">{{ europoslanec.jmeno }}</a></td><td>{{ europoslanec.strana }}</td><td>{{ europoslanec[page.slug] }}</td></tr>
   {% endfor %}
   </tbody>
 </table>

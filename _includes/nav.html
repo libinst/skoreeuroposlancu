@@ -18,8 +18,8 @@
     <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
     <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
     <script>
-    jQuery.getJSON('/senatori.json', function(data) {
-      $("#senator-search").autocomplete({
+    jQuery.getJSON('/europoslanci.json', function(data) {
+      $("#europoslanec-search").autocomplete({
         source: data,
         minLength: 2,
         select: function(event, ui){
@@ -36,7 +36,7 @@
         <form class="navbar-form" role="search" action="https://cse.google.com/cse">
           <input type="hidden" name="cx" value="006352263766031622043:ygat1wey7ys">
           <div class="input-group">
-            <input id="senator-search" type="text" class="form-control" placeholder="Vyhledat senátora" name="q">
+            <input id="europoslanec-search" type="text" class="form-control" placeholder="Vyhledat europoslance" name="q">
           </div>
         </form>
       </div>

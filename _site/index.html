@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
-  <title>Skóre senátorů</title>
+  <title>Skóre europoslanců</title>
 
   <meta name="author" content="Liberalni institut" />
 
@@ -16,7 +16,7 @@
 
   
 
-  <link rel="alternate" type="application/rss+xml" title="Skóre senátorů - " href="/feed.xml" />
+  <link rel="alternate" type="application/rss+xml" title="Skóre europoslanců - " href="/feed.xml" />
 
   
 
@@ -56,7 +56,7 @@
   
 
   
-  <meta property="og:title" content="Skóre senátorů" />
+  <meta property="og:title" content="Skóre europoslanců" />
   
 
    
@@ -65,12 +65,12 @@
   <meta property="og:type" content="website" />
 
   
-  <meta property="og:url" content="http://www.skoresenatoru.cz/" />
-  <link rel="canonical" href="http://www.skoresenatoru.cz/" />
+  <meta property="og:url" content="http://localhost:4000/" />
+  <link rel="canonical" href="http://localhost:4000/" />
   
 
   
-  <meta property="og:image" content="http://www.skoresenatoru.cz/img/libinst.jpg" />
+  <meta property="og:image" content="http://localhost:4000/img/libinst.jpg" />
   
 
 
@@ -80,13 +80,13 @@
   <meta name="twitter:creator" content="@libinstcz" />
 
   
-  <meta name="twitter:title" content="Skóre senátorů" />
+  <meta name="twitter:title" content="Skóre europoslanců" />
   
 
   
 
   
-  <meta name="twitter:image" content="http://www.skoresenatoru.cz/img/libinst.jpg" />
+  <meta name="twitter:image" content="http://localhost:4000/img/libinst.jpg" />
   
 
   <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
@@ -108,7 +108,7 @@
         <span class="icon-bar"></span>
       </button>
       
-        <a class="navbar-brand" href="http://www.skoresenatoru.cz">Skóre senátorů</a>
+        <a class="navbar-brand" href="http://localhost:4000">Skóre europoslanců</a>
       
     </div>
 
@@ -116,8 +116,8 @@
     <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
     <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
     <script>
-    jQuery.getJSON('/senatori.json', function(data) {
-      $("#senator-search").autocomplete({
+    jQuery.getJSON('/europoslanci.json', function(data) {
+      $("#europoslanec-search").autocomplete({
         source: data,
         minLength: 2,
         select: function(event, ui){
@@ -134,7 +134,7 @@
         <form class="navbar-form" role="search" action="https://cse.google.com/cse">
           <input type="hidden" name="cx" value="006352263766031622043:ygat1wey7ys">
           <div class="input-group">
-            <input id="senator-search" type="text" class="form-control" placeholder="Vyhledat senátora" name="q">
+            <input id="europoslanec-search" type="text" class="form-control" placeholder="Vyhledat europoslance" name="q">
           </div>
         </form>
       </div>
@@ -218,7 +218,7 @@
 	
 	<div class="avatar-container">
 	  <div class="avatar-img-border">
-	    <a href="http://www.skoresenatoru.cz ">
+	    <a href="http://localhost:4000 ">
 	      <img class="avatar-img" src="/img/libinst.jpg" />
 		</a>
 	  </div>
@@ -242,7 +242,7 @@
     <div class="row">
       <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
         <div class="page-heading">
-          <h1>Skóre senátorů</h1>
+          <h1>Skóre europoslanců</h1>
 		  
 		  
 		  
@@ -267,16 +267,16 @@
         <div class="panel-body">
           <div class="row">
             <div class="col-md-3">
-              <img src="https://www.senat.cz/images/senatori/eybertp_295.jpg" class="img-thumbnail" />
+              <img src="http://www.europarl.europa.eu/mepphoto/.jpg" class="img-thumbnail" />
             </div>
             <div class="col-md-9">          
-              <h3 style="margin-top:0"><a class="page-link" href="/senatori/pavel-eybert/">Pavel Eybert</a></h3>
-              ODS
+              <h3 style="margin-top:0"><a class="page-link" href="/europoslanci/jiri-payne/">Jiří Payne</a></h3>
+              EFDD
             </div>
           </div>
         </div>
         <div class="panel-footer success">
-          <h2 style="text-align:center">52%</h2>
+          <h2 style="text-align:center">77%</h2>
         </div>
       </div>
     
@@ -284,16 +284,16 @@
         <div class="panel-body">
           <div class="row">
             <div class="col-md-3">
-              <img src="https://www.senat.cz/images/senatori/kuberaj_295.jpg" class="img-thumbnail" />
+              <img src="http://www.europarl.europa.eu/mepphoto/.jpg" class="img-thumbnail" />
             </div>
             <div class="col-md-9">          
-              <h3 style="margin-top:0"><a class="page-link" href="/senatori/jaroslav-kubera/">Jaroslav Kubera</a></h3>
-              ODS
+              <h3 style="margin-top:0"><a class="page-link" href="/europoslanci/petr-mach/">Petr Mach</a></h3>
+              EFDD
             </div>
           </div>
         </div>
         <div class="panel-footer success">
-          <h2 style="text-align:center">50%</h2>
+          <h2 style="text-align:center">56%</h2>
         </div>
       </div>
     
@@ -301,16 +301,16 @@
         <div class="panel-body">
           <div class="row">
             <div class="col-md-3">
-              <img src="https://www.senat.cz/images/senatori/pesakm_295.jpg" class="img-thumbnail" />
+              <img src="http://www.europarl.europa.eu/mepphoto/.jpg" class="img-thumbnail" />
             </div>
             <div class="col-md-9">          
-              <h3 style="margin-top:0"><a class="page-link" href="/senatori/milan-pesak/">Milan Pešák</a></h3>
-              BEZPP/ODS
+              <h3 style="margin-top:0"><a class="page-link" href="/europoslanci/jan-zahradil/">Jan Zahradil</a></h3>
+              ECR
             </div>
           </div>
         </div>
         <div class="panel-footer success">
-          <h2 style="text-align:center">48%</h2>
+          <h2 style="text-align:center">17%</h2>
         </div>
       </div>
     
@@ -318,118 +318,16 @@
         <div class="panel-body">
           <div class="row">
             <div class="col-md-3">
-              <img src="https://www.senat.cz/images/senatori/bratskyp_295.jpg" class="img-thumbnail" />
+              <img src="http://www.europarl.europa.eu/mepphoto/.jpg" class="img-thumbnail" />
             </div>
             <div class="col-md-9">          
-              <h3 style="margin-top:0"><a class="page-link" href="/senatori/petr-bratsky/">Petr Bratský</a></h3>
-              ODS
+              <h3 style="margin-top:0"><a class="page-link" href="/europoslanci/evzen-tosenovsky/">Evžen Tošenovský</a></h3>
+              ECR
             </div>
           </div>
         </div>
         <div class="panel-footer success">
-          <h2 style="text-align:center">48%</h2>
-        </div>
-      </div>
-    
-      <div class="panel panel-success">
-        <div class="panel-body">
-          <div class="row">
-            <div class="col-md-3">
-              <img src="https://www.senat.cz/images/senatori/burianj_295.jpg" class="img-thumbnail" />
-            </div>
-            <div class="col-md-9">          
-              <h3 style="margin-top:0"><a class="page-link" href="/senatori/jiri-burian/">Jiří Burian</a></h3>
-              ODS
-            </div>
-          </div>
-        </div>
-        <div class="panel-footer success">
-          <h2 style="text-align:center">46%</h2>
-        </div>
-      </div>
-    
-      <div class="panel panel-success">
-        <div class="panel-body">
-          <div class="row">
-            <div class="col-md-3">
-              <img src="https://www.senat.cz/images/senatori/nytraz_295.jpg" class="img-thumbnail" />
-            </div>
-            <div class="col-md-9">          
-              <h3 style="margin-top:0"><a class="page-link" href="/senatori/zdenek-nytra/">Zdeněk Nytra</a></h3>
-              BEZPP/NK
-            </div>
-          </div>
-        </div>
-        <div class="panel-footer success">
-          <h2 style="text-align:center">45%</h2>
-        </div>
-      </div>
-    
-      <div class="panel panel-success">
-        <div class="panel-body">
-          <div class="row">
-            <div class="col-md-3">
-              <img src="https://www.senat.cz/images/senatori/grulicht_295.jpg" class="img-thumbnail" />
-            </div>
-            <div class="col-md-9">          
-              <h3 style="margin-top:0"><a class="page-link" href="/senatori/tomas-grulich/">Tomáš Grulich</a></h3>
-              ODS
-            </div>
-          </div>
-        </div>
-        <div class="panel-footer success">
-          <h2 style="text-align:center">44%</h2>
-        </div>
-      </div>
-    
-      <div class="panel panel-success">
-        <div class="panel-body">
-          <div class="row">
-            <div class="col-md-3">
-              <img src="https://www.senat.cz/images/senatori/aschenbrennerl_295.jpg" class="img-thumbnail" />
-            </div>
-            <div class="col-md-9">          
-              <h3 style="margin-top:0"><a class="page-link" href="/senatori/lumir-aschenbrenner/">Lumír Aschenbrenner</a></h3>
-              ODS
-            </div>
-          </div>
-        </div>
-        <div class="panel-footer success">
-          <h2 style="text-align:center">42%</h2>
-        </div>
-      </div>
-    
-      <div class="panel panel-success">
-        <div class="panel-body">
-          <div class="row">
-            <div class="col-md-3">
-              <img src="https://www.senat.cz/images/senatori/vystrcilm_295.jpg" class="img-thumbnail" />
-            </div>
-            <div class="col-md-9">          
-              <h3 style="margin-top:0"><a class="page-link" href="/senatori/milos-vystrcil/">Miloš Vystrčil</a></h3>
-              ODS
-            </div>
-          </div>
-        </div>
-        <div class="panel-footer success">
-          <h2 style="text-align:center">41%</h2>
-        </div>
-      </div>
-    
-      <div class="panel panel-success">
-        <div class="panel-body">
-          <div class="row">
-            <div class="col-md-3">
-              <img src="https://www.senat.cz/images/senatori/jirsat_295.jpg" class="img-thumbnail" />
-            </div>
-            <div class="col-md-9">          
-              <h3 style="margin-top:0"><a class="page-link" href="/senatori/tomas-jirsa/">Tomáš Jirsa</a></h3>
-              ODS
-            </div>
-          </div>
-        </div>
-        <div class="panel-footer success">
-          <h2 style="text-align:center">38%</h2>
+          <h2 style="text-align:center">12%</h2>
         </div>
       </div>
     
@@ -441,16 +339,16 @@
         <div class="panel-body">
           <div class="row">
             <div class="col-md-3">
-              <img src="https://www.senat.cz/images/senatori/jelinkovas_295.jpg" class="img-thumbnail" />
+              <img src="http://www.europarl.europa.eu/mepphoto/.jpg" class="img-thumbnail" />
             </div>
             <div class="col-md-9">          
-              <h3 style="margin-top:0"><a class="page-link" href="/senatori/sarka-jelinkova/">Šárka Jelínková</a></h3>
-              KDU-ČSL
+              <h3 style="margin-top:0"><a class="page-link" href="/europoslanci/olga-sehnalova/">Olga Sehnalová</a></h3>
+              S&amp;D
             </div>
           </div>
         </div>
         <div class="panel-footer">
-          <h2 style="text-align:center">-82%</h2>
+          <h2 style="text-align:center">-61%</h2>
         </div>
       </div>
     
@@ -458,16 +356,16 @@
         <div class="panel-body">
           <div class="row">
             <div class="col-md-3">
-              <img src="https://www.senat.cz/images/senatori/kratochvilek_295.jpg" class="img-thumbnail" />
+              <img src="http://www.europarl.europa.eu/mepphoto/.jpg" class="img-thumbnail" />
             </div>
             <div class="col-md-9">          
-              <h3 style="margin-top:0"><a class="page-link" href="/senatori/karel-kratochvile/">Karel Kratochvíle</a></h3>
-              ČSSD
+              <h3 style="margin-top:0"><a class="page-link" href="/europoslanci/miroslav-poche/">Miroslav Poche</a></h3>
+              S&amp;D
             </div>
           </div>
         </div>
         <div class="panel-footer">
-          <h2 style="text-align:center">-67%</h2>
+          <h2 style="text-align:center">-61%</h2>
         </div>
       </div>
     
@@ -475,16 +373,16 @@
         <div class="panel-body">
           <div class="row">
             <div class="col-md-3">
-              <img src="https://www.senat.cz/images/senatori/juraneks_295.jpg" class="img-thumbnail" />
+              <img src="http://www.europarl.europa.eu/mepphoto/.jpg" class="img-thumbnail" />
             </div>
             <div class="col-md-9">          
-              <h3 style="margin-top:0"><a class="page-link" href="/senatori/stanislav-juranek/">Stanislav Juránek</a></h3>
-              KDU-ČSL
+              <h3 style="margin-top:0"><a class="page-link" href="/europoslanci/pavel-poc/">Pavel Poc</a></h3>
+              S&amp;D
             </div>
           </div>
         </div>
         <div class="panel-footer">
-          <h2 style="text-align:center">-62%</h2>
+          <h2 style="text-align:center">-64%</h2>
         </div>
       </div>
     
@@ -492,118 +390,16 @@
         <div class="panel-body">
           <div class="row">
             <div class="col-md-3">
-              <img src="https://www.senat.cz/images/senatori/stohlp_295.jpg" class="img-thumbnail" />
+              <img src="http://www.europarl.europa.eu/mepphoto/.jpg" class="img-thumbnail" />
             </div>
             <div class="col-md-9">          
-              <h3 style="margin-top:0"><a class="page-link" href="/senatori/pavel-stohl/">Pavel Štohl</a></h3>
-              BEZPP/ČSSD
+              <h3 style="margin-top:0"><a class="page-link" href="/europoslanci/jan-keller/">Jan Keller</a></h3>
+              S&amp;D
             </div>
           </div>
         </div>
         <div class="panel-footer">
-          <h2 style="text-align:center">-58%</h2>
-        </div>
-      </div>
-    
-      <div class="panel panel-danger">
-        <div class="panel-body">
-          <div class="row">
-            <div class="col-md-3">
-              <img src="https://www.senat.cz/images/senatori/bradacf_295.jpg" class="img-thumbnail" />
-            </div>
-            <div class="col-md-9">          
-              <h3 style="margin-top:0"><a class="page-link" href="/senatori/frantisek-bradac/">František Bradáč</a></h3>
-              KDU-ČSL
-            </div>
-          </div>
-        </div>
-        <div class="panel-footer">
-          <h2 style="text-align:center">-58%</h2>
-        </div>
-      </div>
-    
-      <div class="panel panel-danger">
-        <div class="panel-body">
-          <div class="row">
-            <div class="col-md-3">
-              <img src="https://www.senat.cz/images/senatori/dernerovaa_295.jpg" class="img-thumbnail" />
-            </div>
-            <div class="col-md-9">          
-              <h3 style="margin-top:0"><a class="page-link" href="/senatori/alena-dernerova/">Alena Dernerová</a></h3>
-              BEZPP/SD-SN
-            </div>
-          </div>
-        </div>
-        <div class="panel-footer">
-          <h2 style="text-align:center">-55%</h2>
-        </div>
-      </div>
-    
-      <div class="panel panel-danger">
-        <div class="panel-body">
-          <div class="row">
-            <div class="col-md-3">
-              <img src="https://www.senat.cz/images/senatori/sromovaa_295.jpg" class="img-thumbnail" />
-            </div>
-            <div class="col-md-9">          
-              <h3 style="margin-top:0"><a class="page-link" href="/senatori/alena-sromova/">Alena Šromová</a></h3>
-              KDU-ČSL
-            </div>
-          </div>
-        </div>
-        <div class="panel-footer">
-          <h2 style="text-align:center">-54%</h2>
-        </div>
-      </div>
-    
-      <div class="panel panel-danger">
-        <div class="panel-body">
-          <div class="row">
-            <div class="col-md-3">
-              <img src="https://www.senat.cz/images/senatori/bublanf_295.jpg" class="img-thumbnail" />
-            </div>
-            <div class="col-md-9">          
-              <h3 style="margin-top:0"><a class="page-link" href="/senatori/frantisek-bublan/">František Bublan</a></h3>
-              BEZPP/ČSSD
-            </div>
-          </div>
-        </div>
-        <div class="panel-footer">
-          <h2 style="text-align:center">-53%</h2>
-        </div>
-      </div>
-    
-      <div class="panel panel-danger">
-        <div class="panel-body">
-          <div class="row">
-            <div class="col-md-3">
-              <img src="https://www.senat.cz/images/senatori/taborskyj_295.jpg" class="img-thumbnail" />
-            </div>
-            <div class="col-md-9">          
-              <h3 style="margin-top:0"><a class="page-link" href="/senatori/josef-taborsky/">Josef Táborský</a></h3>
-              ČSSD
-            </div>
-          </div>
-        </div>
-        <div class="panel-footer">
-          <h2 style="text-align:center">-52%</h2>
-        </div>
-      </div>
-    
-      <div class="panel panel-danger">
-        <div class="panel-body">
-          <div class="row">
-            <div class="col-md-3">
-              <img src="https://www.senat.cz/images/senatori/mezianh_295.jpg" class="img-thumbnail" />
-            </div>
-            <div class="col-md-9">          
-              <h3 style="margin-top:0"><a class="page-link" href="/senatori/hassan-mezian/">Hassan Mezian</a></h3>
-              ČSSD
-            </div>
-          </div>
-        </div>
-        <div class="panel-footer">
-          <h2 style="text-align:center">-50%</h2>
+          <h2 style="text-align:center">-70%</h2>
         </div>
       </div>
     
@@ -623,7 +419,7 @@
 
   
   <!--- Share on Twitter -->
-    <a href="https://twitter.com/intent/tweet?text=Sk%C3%B3re+sen%C3%A1tor%C5%AF+http://www.skoresenatoru.cz/"
+    <a href="https://twitter.com/intent/tweet?text=Sk%C3%B3re+europoslanc%C5%AF+http://localhost:4000/"
       class="btn btn-social-icon btn-twitter" title="Share on Twitter">
       <span class="fa fa-fw fa-twitter" aria-hidden="true"></span>
       <span class="sr-only">Twitter</span>
@@ -632,7 +428,7 @@
 
   
   <!--- Share on Facebook -->
-    <a href="https://www.facebook.com/sharer/sharer.php?u=http://www.skoresenatoru.cz/"
+    <a href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:4000/"
       class="btn btn-social-icon btn-facebook" title="Share on Facebook">
       <span class="fa fa-fw fa-facebook" aria-hidden="true"></span>
       <span class="sr-only">Facebook</span>
@@ -711,11 +507,11 @@
         <p class="copyright text-muted">
 		  Liberalni institut
 		  &nbsp;&bull;&nbsp;
-		  2018
+		  2019
 
 		  
 		  &nbsp;&bull;&nbsp;
-		  <a href="http://www.skoresenatoru.cz">skoresenatoru.cz</a>
+		  <a href="http://localhost:4000">skoreeuroposlancu.cz</a>
 		  
 	    </p>
 	        <!-- Please don't remove this, keep my open source work credited :) -->

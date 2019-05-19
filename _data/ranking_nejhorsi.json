@@ -1,72 +1,30 @@
 [
   {
-    "jmeno": "Šárka Jelínková",
-    "strana": "KDU-ČSL",
-    "linkurl": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=309",
-    "imageurl": "https://www.senat.cz/images/senatori/jelinkovas_295.jpg",
-    "procent": "-82%"
+    "jmeno": "Olga Sehnalová",
+    "strana": "S&D",
+    "linkurl": "url",
+    "procent": "-61%",
+    "imageurl": ""
   },
   {
-    "jmeno": "Karel Kratochvíle",
-    "strana": "ČSSD",
-    "linkurl": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=276",
-    "imageurl": "https://www.senat.cz/images/senatori/kratochvilek_295.jpg",
-    "procent": "-67%"
+    "jmeno": "Miroslav Poche",
+    "strana": "S&D",
+    "linkurl": "",
+    "procent": "-61%",
+    "imageurl": ""
   },
   {
-    "jmeno": "Stanislav Juránek",
-    "strana": "KDU-ČSL",
-    "linkurl": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=16.3.2016&O=10&par_3=245",
-    "imageurl": "https://www.senat.cz/images/senatori/juraneks_295.jpg",
-    "procent": "-62%"
+    "jmeno": "Pavel Poc",
+    "strana": "S&D",
+    "linkurl": "",
+    "procent": "-64%",
+    "imageurl": ""
   },
   {
-    "jmeno": "Pavel Štohl",
-    "strana": "BEZPP/ČSSD",
-    "linkurl": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=287",
-    "imageurl": "https://www.senat.cz/images/senatori/stohlp_295.jpg",
-    "procent": "-58%"
-  },
-  {
-    "jmeno": "František Bradáč",
-    "strana": "KDU-ČSL",
-    "linkurl": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=286",
-    "imageurl": "https://www.senat.cz/images/senatori/bradacf_295.jpg",
-    "procent": "-58%"
-  },
-  {
-    "jmeno": "Alena Dernerová",
-    "strana": "BEZPP/SD-SN",
-    "linkurl": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=233",
-    "imageurl": "https://www.senat.cz/images/senatori/dernerovaa_295.jpg",
-    "procent": "-55%"
-  },
-  {
-    "jmeno": "Alena Šromová",
-    "strana": "KDU-ČSL",
-    "linkurl": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=289",
-    "imageurl": "https://www.senat.cz/images/senatori/sromovaa_295.jpg",
-    "procent": "-54%"
-  },
-  {
-    "jmeno": "František Bublan",
-    "strana": "BEZPP/ČSSD",
-    "linkurl": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=256",
-    "imageurl": "https://www.senat.cz/images/senatori/bublanf_295.jpg",
-    "procent": "-53%"
-  },
-  {
-    "jmeno": "Josef Táborský",
-    "strana": "ČSSD",
-    "linkurl": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=16.3.2016&O=10&par_3=238",
-    "imageurl": "https://www.senat.cz/images/senatori/taborskyj_295.jpg",
-    "procent": "-52%"
-  },
-  {
-    "jmeno": "Hassan Mezian",
-    "strana": "ČSSD",
-    "linkurl": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=262",
-    "imageurl": "https://www.senat.cz/images/senatori/mezianh_295.jpg",
-    "procent": "-50%"
+    "jmeno": "Jan Keller",
+    "strana": "S&D",
+    "linkurl": "",
+    "procent": "-70%",
+    "imageurl": ""
   }
 ]

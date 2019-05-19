@@ -16,7 +16,7 @@ module Jekyll_Get
         config = [config]
       end
       config.each do |d|
-        begin
+        # begin
           target = site.data[d['data']]
           source = JSON.load(open(d['json']).read.gsub("\u00A0", " "))
           if d['json'].match(/\Ahttps:\/\/spreadsheets.google.com/)
@@ -38,9 +38,9 @@ module Jekyll_Get
               file << JSON.pretty_generate(site.data[d['data']])
             end
           end
-        rescue
-          next
-        end
+        # rescue
+          # next
+        # end
       end
     end
   end

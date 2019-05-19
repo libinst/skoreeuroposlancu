@@ -1,0 +1,42 @@
+---
+layout: default
+---
+<div class="row">
+  <div class="col-md-4">
+    <img src="http://www.europarl.europa.eu/mepphoto/{{ page.idep }}.jpg" class="img-thumbnail">
+  </div>
+  <div class="col-md-8">
+    <h1>{{page.jmeno}}</h1>
+    <h2>{{page.strana}}</h2>
+    <a href="{{ page.linkurl }}">Na webu EP</a>
+    {% assign resource = site.data.ranking | where: "jmeno", page.jmeno | first %}
+    <h2>SKÓRE: {{resource.rank}}</h2>
+  </div>
+</div>
+
+{% if page.pohlavi=="F"%}
+<h2>Jak hlasovala?</h2>
+{% else %}
+<h2>Jak hlasoval?</h2>
+{% endif %}
+<table class="table">
+  <thead>
+    <tr>
+      <th>Zákon</th>
+      <th>Hlasoval</th>
+      <th>Pozice LI</th>
+    </tr>
+  </thead>
+  <tbody>
+  {% for hlasovani in site.data.hlasovani %}
+    <tr>
+      <td><a class="page-link" href="/hlasovani/{{ hlasovani.slug }}">{{ hlasovani.nazev }}</a></td>
+      <td {% case page[hlasovani.slug]%}{%when "PRO"%}class="success"{%when "PROTI"%}class="danger"{%endcase%}>{{ page[hlasovani.slug] }}</td>
+      <td {% case hlasovani.poziceli%}{%when "PRO"%}class="success"{%when "PROTI"%}class="danger"{%endcase%}>{{ hlasovani.poziceli }}</td></tr>
+  {% endfor %}
+  </tbody>
+</table>
+
+{% if page.social-share %}
+  {% include social-share.html %}
+{% endif %}

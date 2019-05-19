@@ -1,72 +1,30 @@
 [
   {
-    "jmeno": "Pavel Eybert",
-    "strana": "ODS",
-    "linkurl": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=16.3.2016&O=10&par_3=13",
-    "imageurl": "https://www.senat.cz/images/senatori/eybertp_295.jpg",
-    "procent": "52%"
+    "jmeno": "Jiří Payne",
+    "strana": "EFDD",
+    "linkurl": "url",
+    "procent": "77%",
+    "imageurl": ""
   },
   {
-    "jmeno": "Jaroslav Kubera",
-    "strana": "ODS",
-    "linkurl": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=120",
-    "imageurl": "https://www.senat.cz/images/senatori/kuberaj_295.jpg",
-    "procent": "50%"
+    "jmeno": "Petr Mach",
+    "strana": "EFDD",
+    "linkurl": "",
+    "procent": "56%",
+    "imageurl": ""
   },
   {
-    "jmeno": "Milan Pešák",
-    "strana": "BEZPP/ODS",
-    "linkurl": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=16.3.2016&O=10&par_3=235",
-    "imageurl": "https://www.senat.cz/images/senatori/pesakm_295.jpg",
-    "procent": "48%"
+    "jmeno": "Jan Zahradil",
+    "strana": "ECR",
+    "linkurl": "",
+    "procent": "17%",
+    "imageurl": ""
   },
   {
-    "jmeno": "Petr Bratský",
-    "strana": "ODS",
-    "linkurl": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=16.3.2016&O=10&par_3=236",
-    "imageurl": "https://www.senat.cz/images/senatori/bratskyp_295.jpg",
-    "procent": "48%"
-  },
-  {
-    "jmeno": "Jiří Burian",
-    "strana": "ODS",
-    "linkurl": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=277",
-    "imageurl": "https://www.senat.cz/images/senatori/burianj_295.jpg",
-    "procent": "46%"
-  },
-  {
-    "jmeno": "Zdeněk Nytra",
-    "strana": "BEZPP/NK",
-    "linkurl": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=307",
-    "imageurl": "https://www.senat.cz/images/senatori/nytraz_295.jpg",
-    "procent": "45%"
-  },
-  {
-    "jmeno": "Tomáš Grulich",
-    "strana": "ODS",
-    "linkurl": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=193",
-    "imageurl": "https://www.senat.cz/images/senatori/grulicht_295.jpg",
-    "procent": "44%"
-  },
-  {
-    "jmeno": "Lumír Aschenbrenner",
-    "strana": "ODS",
-    "linkurl": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=275",
-    "imageurl": "https://www.senat.cz/images/senatori/aschenbrennerl_295.jpg",
-    "procent": "42%"
-  },
-  {
-    "jmeno": "Miloš Vystrčil",
-    "strana": "ODS",
-    "linkurl": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=243",
-    "imageurl": "https://www.senat.cz/images/senatori/vystrcilm_295.jpg",
-    "procent": "41%"
-  },
-  {
-    "jmeno": "Tomáš Jirsa",
-    "strana": "ODS",
-    "linkurl": "http://senat.cz/senatori/index.php?lng=cz&ke_dni=22.7.2018&O=11&par_3=171",
-    "imageurl": "https://www.senat.cz/images/senatori/jirsat_295.jpg",
-    "procent": "38%"
+    "jmeno": "Evžen Tošenovský",
+    "strana": "ECR",
+    "linkurl": "",
+    "procent": "12%",
+    "imageurl": ""
   }
 ]
