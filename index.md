@@ -5,7 +5,7 @@ title:  "Skóre europoslanců"
 
 <div class="row">
   <div class="col-md-6">
-    <h1>Deset nejlepších</h1>
+    <h1>Nejliberálnější</h1>
     {% for europoslanec in site.data.ranking_nejlepsi limit:10 %}
       <div class="panel panel-success">
         <div class="panel-body">
@@ -26,7 +26,7 @@ title:  "Skóre europoslanců"
     {% endfor %}
   </div>
   <div class="col-md-6">
-    <h1>Deset nejhorších</h1>
+    <h1>Nejméně liberální</h1>
     {% for europoslanec in site.data.ranking_nejhorsi limit:10 %}
       <div class="panel panel-danger">
         <div class="panel-body">

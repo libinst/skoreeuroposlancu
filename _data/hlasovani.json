@@ -201,8 +201,8 @@
   },
   {
     "slug": "geneticky-modifikovana-kukurice",
-    "_cokwr": "Námitka – genetický modifikovaná kukuřice",
-    "nazev": "Produkty, které obsahují geneticky modifikovanou kukuřici NK603neúčastT25, sestávají z ní nebo jsou z ní vyrobeny",
+    "_cokwr": "Námitka – geneticky modifikovaná kukuřice",
+    "nazev": "Produkty, které obsahují geneticky modifikovanou kukuřici NK603 × T25, sestávají z ní nebo jsou z ní vyrobeny",
     "cislo": "B8-1365/2015 - Résolution",
     "datum": "16. prosince 2015",
     "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2015/3006(RSP)",
@@ -406,8 +406,8 @@
     "cislo": "A8-0029/2017 - Simona Bonafè - am 90",
     "datum": "18. dubna 2018",
     "epurl": "",
-    "poziceli": "PROTI",
-    "vysvetleni": ""
+    "poziceli": "",
+    "vysvetleni": "Návrh přináší povinnost členských států dodržovat přísné a neefektivní limity na recyklaci obalů. Od roku 2026 musí být ecyklováno 55 % plastových obalů, 60 % dřevěných a 75 % kovových, hliníkových, skleněných a papírových. Od roku 2031 mají být limity ještě přísnější."
   },
   {
     "slug": "vicelety-financni-ramec",
@@ -517,7 +517,7 @@
     "datum": "17. dubna 2018",
     "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2017/0219(COD)",
     "poziceli": "PROTI",
-    "vysvetleni": ""
+    "vysvetleni": "Úprava pravidel vzniku evropských politických stran a nadací s cílem harmonizovat státní a unijní politiku a zabránit jedné straně na národní úrovni vytvořit několik politických stran podobného směru na unijní úrovni. Nadále budou moci pouze politické strany a nikoliv jednotlivci sponzorovat vznik nové evropské politické strany. Zároveň je snížen kofinanční limit z 15 % na 10 % pro evropské politické strany a 5 % pro evropské politické nadace."
   },
   {
     "slug": "snizeni-emisi-podle-parizske-dohody",
@@ -527,7 +527,7 @@
     "datum": "17. dubna 2018",
     "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2016/0231(COD)",
     "poziceli": "PROTI",
-    "vysvetleni": ""
+    "vysvetleni": "Návrh předkládající minimální přispění členských států k celkovému snížení emisí v letech 2021–2030 tak, aby celkově došlo k 30 % snížení. Konkrétní cíle jsou mezi 0 a −40% oproti stavu v roce 2005. Návrh je neefektivním řešením."
   },
   {
     "slug": "energeticky-vykon-budov",
@@ -537,7 +537,7 @@
     "datum": "17. dubna 2018",
     "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2016/0381(COD)",
     "poziceli": "PROTI",
-    "vysvetleni": ""
+    "vysvetleni": "Úprava směrnice o energetické náročnosti budov tak, aby definice technických stavebních systémů zahrnovala i infrastrukturu pro elektromobilitu a vlastní tvorbu elektřiny spolu s dalšími prvky regulace renovací a výstavby."
   },
   {
     "slug": "smernice-o-vyslanych-pracovnicich",
@@ -547,7 +547,7 @@
     "datum": "29. května 2018",
     "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2016/0070(COD)",
     "poziceli": "PROTI",
-    "vysvetleni": ""
+    "vysvetleni": "Úprava směrnice o vysílání zahraničních pracovníků. Pokud toto trvá déle než 24 měsíců, je země vyslání považována za místo běžného výkonu pracovní činnosti se všemi implikacemi. Kolektivní smlouvy se nadále týkají vyslaných pracovníků ve všech sektorech, v důsledku čehož se na vyslané pracovníky vztahují i pravidla ohledně finančního ohodnocení pocházející z těchto smluv."
   },
   {
     "slug": "namitka--kukurice",
@@ -557,7 +557,7 @@
     "datum": "30. května 2018",
     "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2018/2698(RSP)",
     "poziceli": "PROTI",
-    "vysvetleni": ""
+    "vysvetleni": "Evropská komise navrhovala prodloužit certifikaci zcela neškodné geneticky modifikované kukuřice. Hlasovalo se o námitce proti tomuto prodloužení."
   },
   {
     "slug": "omezeni-doby-provozu-pro-kamiony",
@@ -567,7 +567,7 @@
     "datum": "4. dubna 2019",
     "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2017/0122(COD)",
     "poziceli": "PROTI",
-    "vysvetleni": ""
+    "vysvetleni": "Úprava regulace doby řízení. Řidiči budou povinni zaznamenávat všechny aktivity jiné než řízení vozidla, nebudou smět v jednom týdnu strávit odpočíváním ve vozidle déle než 45 hodin a další regulace komerční přepravy."
   },
   {
     "slug": "etias",
@@ -577,7 +577,7 @@
     "datum": "5. července 2018",
     "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2016/0357A(COD)",
     "poziceli": "PRO",
-    "vysvetleni": ""
+    "vysvetleni": "Návrh ustanovení Evropského systému pro cestovní informace a povolení jako systému pro občany třetích států. Systém do značné míry kopíruje americký systém ESTA, který usnadňuje cestování lidem z bezpečných zemí."
   },
   {
     "slug": "nestandardni-lahve-pro-socu",
@@ -587,7 +587,7 @@
     "datum": "12. září 2018",
     "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2018/0097(COD)",
     "poziceli": "PRO",
-    "vysvetleni": ""
+    "vysvetleni": "Výjimka z unijní regulace standardizující objemy nápojových láhví pro tradiční japonské šóčú, které tak může být prodáváno v tradičních 720ml a 1800ml láhvích."
   },
   {
     "slug": "boj-s-pranim-spinavych-penez-pomoci-trestniho-prava",
@@ -597,7 +597,7 @@
     "datum": "12. září 2018",
     "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2016/0414(COD)",
     "poziceli": "PROTI",
-    "vysvetleni": ""
+    "vysvetleni": "Návrh směrnice o boji proti praní špinavých peněz skrze implementaci mezinárodních povinností; směrnice definuje právní podstatu praní peněz na mezinárodní úrovni, stejně jako ukládá minimální délku trestu. Jedná se o centralizaci trestního práva."
   },
   {
     "slug": "povinny-podil-evropskych-del-na-netflixu",
@@ -607,7 +607,7 @@
     "datum": "2. října 2018",
     "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2016/0151(COD)",
     "poziceli": "PROTI",
-    "vysvetleni": ""
+    "vysvetleni": "Úprava směrnice o audiovizuálních mediálních službách; mimojiné bude muset být 20 % z nabízeného katalogu služeb evropského původu, je stanoven maximální reklamní čas, zvýšena ochrana mladistvých, a zároveň je členským státům umožněno uvalit další poplatky na poskytovatele audiovizuálních služeb."
   },
   {
     "slug": "dovoz-kulturnich-statku",
@@ -637,7 +637,7 @@
     "datum": "17. dubna 2019",
     "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2018/0224(COD)",
     "poziceli": "PROTI",
-    "vysvetleni": ""
+    "vysvetleni": "Ustavení výzkumného a inovačního programu Horizont Evropa pro roky 2021–2027, který nahrazuje program Horizont 2020. Rozpočet programu pro tyto roky má být 94,10 miliard eur."
   },
   {
     "slug": "obchodni-dohoda-eu-japonsko",
@@ -647,7 +647,7 @@
     "datum": "12. prosince 2018",
     "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2018/0091(NLE)",
     "poziceli": "PRO",
-    "vysvetleni": ""
+    "vysvetleni": "Obchodní dohoda mezi Unií a Japonskem liberalizující obhod (Japonsko při uzavření dohody liberalizuje 91 % obchodu s EU, časem až 99 %). Dojde také k odstranění překážek v účasti ve výběrových řízeních o veřejné zakázky a další odstranění obchodních bariér."
   },
   {
     "slug": "vesmirny-program-eu",
@@ -657,7 +657,7 @@
     "datum": "17. dubna 2019",
     "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2018/0236(COD)",
     "poziceli": "PROTI",
-    "vysvetleni": ""
+    "vysvetleni": "Ustanovení evropského vesmírného programu v letech 2021–2027, cílem je spojit současný výzkum vesmíru v jeden program. Plánovaný rozpočet 16 miliard eur."
   },
   {
     "slug": "digitalni-dan",
@@ -667,7 +667,7 @@
     "datum": "13. prosince 2018",
     "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2018/0073(CNS)",
     "poziceli": "PROTI",
-    "vysvetleni": ""
+    "vysvetleni": "Cílem je ustavit společný systém pro zdanění příjmů z poskytování digitálních služeb. Jedná se o centralizaci zdanění a tedy omezování daňové konkurence. Navíc je tato daň proti mezinárodním smlouvám a Spojené státy by ji chápaly jako clo."
   },
   {
     "slug": "efg",
@@ -677,7 +677,7 @@
     "datum": "16. ledna 2019",
     "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2018/0202(COD)",
     "poziceli": "PROTI",
-    "vysvetleni": ""
+    "vysvetleni": "Jedná se o prodloužení existence Evropského fondu pro přizpůsobení se globalizaci, který byl původně založen dočasně na období 2007–2013 a poté prodloužen na roky 2014–2020, na roky 2021–2027 s rozpočtem 1,57 miliard eur na nadcházející období. Cílem fondu je podpora pracovníků, jejichž pracovní místa zanikla v souvislosti s globálním vývojem pracovního trhu. Také je snížena hranice pro získání podpory."
   },
   {
     "slug": "obchodni-dohoda-eu-singapur",
@@ -687,7 +687,7 @@
     "datum": "13. února 2019",
     "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2018/0093(NLE)",
     "poziceli": "PRO",
-    "vysvetleni": ""
+    "vysvetleni": "Dohoda o volném obchodu mezi Unií a Singapurem, snížení obchodních bariér."
   },
   {
     "slug": "dopravni-spolecenstvi",
@@ -717,7 +717,7 @@
     "datum": "12. března 2019",
     "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2018/0082(COD)",
     "poziceli": "PROTI",
-    "vysvetleni": ""
+    "vysvetleni": "Cílem směrnice je ustavit minimální standardy ochrany proti tzv. nekalým obchodním praktikám v potravinářských řetězcích. Jedná se především o centrální regulaci vztahů mezi obchodníky a dodavateli."
   },
   {
     "slug": "copyright",
@@ -727,7 +727,7 @@
     "datum": "26. března 2019",
     "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2016/0280(COD)",
     "poziceli": "PROTI",
-    "vysvetleni": ""
+    "vysvetleni": "Směrnice harmonizující autorské právo na jednotném digitálním trhu. Zpřísnění a centralizace unijního autorského práva. Návrh obsahuje zcela nesmyslná ustanovení o daních z odkazů a cenzorských filtrech."
   },
   {
     "slug": "emise-lehkych-vozidel",
@@ -737,7 +737,7 @@
     "datum": "27. března 2019",
     "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2017/0293(COD)",
     "poziceli": "PROTI",
-    "vysvetleni": ""
+    "vysvetleni": "Závazné výkonnostní normy pro emise CO2 pro nové osobní automobily a pro nová lehká užitková vozidla v letech 2025–2030. Do roku 2030 bude muset dojít k 30% redukci emisí oproti stavu k roku 2021."
   },
   {
     "slug": "zakaz-brcek",
@@ -747,7 +747,7 @@
     "datum": "27. března 2019",
     "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2018/0172(COD)",
     "poziceli": "PROTI",
-    "vysvetleni": ""
+    "vysvetleni": "Směrnice cílící na snížení užívání jednorázových obalů a nápojových kelímků, uvalující restrikce na prodej plastových tyčinek do uší, příborů, talířů, brček, míchátek a rukojetí k balónkům. Na další produkty uvaluje výrobní či likvidační restrikce, zavazuje státy do roku 2025 sbírat 90 % použitých plastových láhví."
   },
   {
     "slug": "evropsky-organ-pro-pracovni-zalezitosti",
@@ -757,7 +757,7 @@
     "datum": "16. dubna 2019",
     "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2018/0064(COD)",
     "poziceli": "PROTI",
-    "vysvetleni": ""
+    "vysvetleni": "Ustavení Evropského orgánu pro pracovní záležitosti s cílem spojovat administrativu členských států a zvyšovat informovanost. Rozpočet úřadu je odhadován na 50,9 milionu eur do roku 2023, činnost má být vykonávána 144 pracovníky."
   },
   {
     "slug": "fiscalis",
@@ -767,7 +767,7 @@
     "datum": "17. dubna 2019",
     "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2018/0233(COD)",
     "poziceli": "PROTI",
-    "vysvetleni": ""
+    "vysvetleni": "Fiscalis je jakýsi Erasmus pro daňové úředníky. Založení programu Fiscalis pro kooperaci v oblasti zdanění v letech 2021–2027, v návaznosti na program Fiscalis 2020. Cílem programu je podporovat výběr daní a daňovou kooperaci, rozpočet programu na nadcházející období má být 270 milionů eur."
   },
   {
     "slug": "program-spravedlnost",
@@ -777,7 +777,7 @@
     "datum": "17. dubna 2019",
     "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2018/0208(COD)",
     "poziceli": "PROTI",
-    "vysvetleni": ""
+    "vysvetleni": "Ustavení nového programu Spravedlnost na období 2021–2027. Má podporovat spolupráci ve věci občanského a trestního práva, podporovat práva obětí i podezřelých, dostupnost spravedlnosti apod. Toho má docílit informační kampaní na unijní a lokální úrovni a zřizováním tréningových programů. Rozpočet programu na nadcházející období je odhadován na 305 milionů eur. Právní spolupráce mezi členskými státy funguje doposud dostatečně, nepodporujeme tuto centralizační snahu."
   },
   {
     "slug": "program-prava-a-hodnoty",
@@ -787,7 +787,7 @@
     "datum": "17. dubna 2019",
     "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2018/0207(COD)",
     "poziceli": "PROTI",
-    "vysvetleni": ""
+    "vysvetleni": "Ustavení programu Práva a hodnoty na období 2021–2027. Program má propagovat rovnost a práva občanů, propagovat zapojení občanů a účast na demokratickém životě v Unii, a bojovat proti násilí. Odhadovaná cena programu je 641,70 milionu eur."
   },
   {
     "slug": "life",
@@ -797,7 +797,7 @@
     "datum": "17. dubna 2019",
     "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2018/0209(COD)",
     "poziceli": "PROTI",
-    "vysvetleni": ""
+    "vysvetleni": "Cílem návrhu je prodloužit existenci programu LIFE vzniklého v roce 2013 na období 2021–2027. Cílem programu je podporovat čistou, efektivní, environment-friendly ekonomiku, zlepšování životního prostředí a bránění ztrátám biodiverzity. Plánovaný rozpočet programu na nadcházející období je 5,45 miliardy eur."
   },
   {
     "slug": "emise-kamiony",
@@ -807,7 +807,7 @@
     "datum": "18. dubna 2019",
     "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2018/0143(COD)",
     "poziceli": "PROTI",
-    "vysvetleni": ""
+    "vysvetleni": "Závazné výkonnostní normy pro emise CO2 pro nová těžká užitková vozidla v letech 2025–2030. Mezi lety 2025 a 2029 bude muset dojít k 15% redukci emisí, od roku 2030 bude cílem snížení o alespoň 30%."
   },
   {
     "slug": "zakaz-glyfosatu",
@@ -817,6 +817,6 @@
     "datum": "24. října 2017",
     "epurl": "https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=en&reference=2017/2904(RSP)",
     "poziceli": "PROTI",
-    "vysvetleni": "Glyfosáty jsou léty užívání prověřen, bezpečný desikant."
+    "vysvetleni": "Glyfosáty jsou léty užívání prověřený, bezpečný desikant."
   }
 ]
