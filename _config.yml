@@ -51,7 +51,7 @@ page_gen-dirs: true
 
 # List of links in the navigation bar
 navbar-links:
-  TOP10: ""
+  TOP: ""
   Celkové pořadí: "celkove-poradi"
   Hlasování: "hlasovani"
   O projektu: "o-projektu"
