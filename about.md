@@ -30,7 +30,7 @@ Našli jste chybu? Dejte nám vědět.
 <img src="https://i0.wp.com/libinst.cz/wp-content/uploads/2017/07/komer%C4%8Dka.png?resize=300%2C298">
 
 ### PayPalem
-[PayPal.me/libinst](PayPal.me/libinst)
+[PayPal.me/libinst](https://PayPal.me/libinst)
 
 ### Bitcoinem
 [3DyLVm2w78DPcZRe1cjy4ANBMmLFLvJUUD](https://blockchain.info/qr?data=3DyLVm2w78DPcZRe1cjy4ANBMmLFLvJUUD)
